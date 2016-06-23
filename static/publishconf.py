@@ -14,6 +14,7 @@ from pelicanconf import *
 
 # 請注意, 為了在近端讓 Tipue search 傳回的搜尋結果連結正確, 必須使用 ./
 SITEURL = 'http://40328242.github.io/2016springcd_bG10/static/blog/'
+
 # 此設定用於近端靜態網頁查驗, 因此使用相對 URL
 RELATIVE_URLS = False
 # 為了要讓 local 與 gh-pages 上都能夠使用 Tipue search, 可能要採用不同的 theme
