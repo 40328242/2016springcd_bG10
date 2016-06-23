@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'kmol'
 SITENAME = 'CD期末考週 網頁 (虎尾科大MDE)'
-SITEURL = 'http://cdw18-ag100.rhcloud.com/static/'
+SITEURL = 'http://40328242.github.io/2016springcd_bG10/static/blog/'
 
 # 不要用文章所在目錄作為類別
 USE_FOLDER_AS_CATEGORY = False
