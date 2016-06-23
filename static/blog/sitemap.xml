@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://40328242.github.io/2016springcd_bG10/static/blog/</loc>
-<lastmod>2016-06-23T10:39:42-00:00</lastmod>
+<lastmod>2016-06-23T10:47:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://40328242.github.io/2016springcd_bG10/static/blog/archives.html</loc>
-<lastmod>2016-06-23T10:39:42-00:00</lastmod>
+<lastmod>2016-06-23T10:47:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://40328242.github.io/2016springcd_bG10/static/blog/tags.html</loc>
-<lastmod>2016-06-23T10:39:42-00:00</lastmod>
+<lastmod>2016-06-23T10:47:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://40328242.github.io/2016springcd_bG10/static/blog/categories.html</loc>
-<lastmod>2016-06-23T10:39:42-00:00</lastmod>
+<lastmod>2016-06-23T10:47:44-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://40328242.github.io/2016springcd_bG10/static/blog/cdw18.html</loc>
+<lastmod>2016-06-23T10:44:29+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -54,7 +61,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://40328242.github.io/2016springcd_bG10/static/blog/category/bg10.html</loc>
-<lastmod>2016-06-23T10:36:31+08:06</lastmod>
+<lastmod>2016-06-23T10:44:29+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -68,14 +75,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://40328242.github.io/2016springcd_bG10/static/blog/tag/40328242.html</loc>
-<lastmod>2016-06-23T10:36:31+08:06</lastmod>
+<lastmod>2016-06-23T10:44:29+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://40328242.github.io/2016springcd_bG10/static/blog/tag/cdw18.html</loc>
-<lastmod>2016-06-23T10:36:31+08:06</lastmod>
+<lastmod>2016-06-23T10:44:29+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -89,7 +96,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://40328242.github.io/2016springcd_bG10/static/blog/author/40328242.html</loc>
-<lastmod>2016-06-23T10:36:31+08:06</lastmod>
+<lastmod>2016-06-23T10:44:29+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
