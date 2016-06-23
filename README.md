@@ -54,3 +54,30 @@
 網際 3D 正齒輪傳動模擬 (一) onshape : https://cad.onshape.com/documents/38b75e84611d4887bf7b914a/w/1c973c7356f663316033c90a/e/2aa2c14e13395aef9d84320a 
 
 網際 3D 正齒輪傳動模擬 (一) 心得 : http://40323243-2014cpfall.rhcloud.com/static/blog/40323243-cdw11-wang-ji-3d-zheng-chi-lun-chuan-dong-mo-ni-yi.html
+
+組員 : 40328245 
+
+期末報告 心得 :
+
+
+
+自行車傳動 2D 鏈條繪圖 (二) :
+
+
+
+自行車傳動 2D 鏈條繪圖 (二) 心得 :
+
+
+
+網際 2D 正齒輪傳動囓合繪圖 :
+
+
+
+網際 2D 正齒輪傳動囓合繪圖 心得 :
+
+
+
+網際 3D 正齒輪傳動模擬 (一) onshape : https://cad.onshape.com/documents/0103bfe3fc4acdeb4162e65c/w/ce85345ba3833c24f4cb247f/e/d59ca74c39734145e77c07fa 
+
+網際 3D 正齒輪傳動模擬 (一) 心得 :
+
