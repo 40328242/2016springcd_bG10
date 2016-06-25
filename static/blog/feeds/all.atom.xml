@@ -1,153 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW11 網頁 (虎尾科大MDE)</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/" rel="alternate"></link><link href="https://40328242.github.io/2016springcd_bG10/static/blog/feeds/all.atom.xml" rel="self"></link><id>https://40328242.github.io/2016springcd_bG10/static/blog/</id><updated>2016-06-25T22:07:17+08:00</updated><entry><title>40328245 期末總結</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40328245-qi-mo-zong-jie.html" rel="alternate"></link><updated>2016-06-25T22:07:17+08:00</updated><author><name>40328245</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40328245-qi-mo-zong-jie.html</id><summary type="html">&lt;p&gt;內容規畫 :
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW11 網頁 (虎尾科大MDE)</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/" rel="alternate"></link><link href="https://40328242.github.io/2016springcd_bG10/static/blog/feeds/all.atom.xml" rel="self"></link><id>https://40328242.github.io/2016springcd_bG10/static/blog/</id><updated>2016-06-26T00:40:44+08:00</updated><entry><title>40323241 w18-3報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323241-w18-3bao-gao.html" rel="alternate"></link><updated>2016-06-26T00:40:44+08:00</updated><author><name>40323241</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40323241-w18-3bao-gao.html</id><summary type="html">&lt;p&gt;內容規畫 :
 
-&lt;font　face="標楷體"&gt;&lt;b&gt;&lt;h3&gt;期末總結&lt;/h3&gt;&lt;/font&gt;&lt;/b&gt;
+&lt;h3&gt;期末總結&lt;/h3&gt;
 &lt;br/&gt;
-&lt;font　face="標楷體"&gt;&lt;b&gt;&lt;h2&gt;心得&lt;/h2&gt;&lt;/font&gt;&lt;/b&gt;
-&lt;font　face="標楷體"&gt;&lt;h3&gt;這一整個學期學到了怎麼畫onshape的齒輪，也學到齒輪的囓合，還有在雲端如何顯現自己所畫的圖。&lt;/h3&gt;&lt;/font&gt;
-&lt;br/&gt;
-&lt;font　face="標楷體"&gt;&lt;b&gt;&lt;h2&gt;自評分數&lt;/h2&gt;&lt;/b&gt;
-&lt;font　face="標楷體"&gt;&lt;b&gt;&lt;h3&gt;65分&lt;/h3&gt;&lt;/font&gt;&lt;/b&gt;
-&lt;br/&gt;
-&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
-&lt;br/&gt;
-&lt;b&gt;&lt;ul type=disc&gt;&lt;font　face="標楷體"&gt;&lt;h3&gt;網際 3D 正齒輪傳動模擬 (二)&lt;/h3&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/b&gt;
-&lt;br/&gt;
-&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/2208c22ac5bb85c8b06fc105/w/e0eaa45b0e1245895691deb0/e/db4dd447b46397b006d10a9b" target="_new"&gt;&lt;font　face="標楷體"&gt;22齒齒輪&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
-&lt;br/&gt;
-&lt;img src="http://i.imgur.com/GvVdSfD.png" width="100%" /&gt;
-&lt;br/&gt;
-&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/2208c22ac5bb85c8b06fc105/w/e0eaa45b0e1245895691deb0/e/a8906ce6636d97b33c900e34" target="_new"&gt;&lt;font　face="標楷體"&gt;面版圖&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
-&lt;br/&gt;
-&lt;img src="http://i.imgur.com/cddaiOg.png" width="100%" /&gt;
-&lt;br/&gt;
-&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/2208c22ac5bb85c8b06fc105/w/e0eaa45b0e1245895691deb0/e/3fa2988f81a155daade299f6" target="_new"&gt;&lt;font　face="標楷體"&gt;完成圖&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
-&lt;br/&gt;
-&lt;img src="http://i.imgur.com/wAmugha.png" width="100%" /&gt;
-&lt;br/&gt;
-&lt;b&gt;&lt;ul type=disc&gt;&lt;font　face="標楷體"&gt;&lt;h2&gt;心得&lt;/h2&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/b&gt;
-&lt;font　face="標楷體"&gt;&lt;h3&gt;先將尺寸改成mm，一樣再利用呼叫跑出spur gear，再利用它來建立新的齒輪。因為這次是和大家一起畫，所以若要囓合大家的齒輪，齒輪跟齒輪之間的角度需要調才可以成功囓合大家的角度。&lt;/h3&gt;&lt;/font&gt;
-&lt;br/&gt;
-&lt;b&gt;&lt;ul type=disc&gt;&lt;font　face="標楷體"&gt;&lt;h2&gt;自評分數&lt;/h2&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/b&gt;
-&lt;h3&gt;65分&lt;/h3&gt;
-&lt;br/&gt;
-&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
-&lt;h3&gt;自製2d繪圖&lt;/h3&gt;
-&lt;br/&gt;
-&lt;b&gt;&lt;ul type=disc&gt;&lt;font　face="標楷體"&gt;&lt;h3&gt;草圖&lt;/h3&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/b&gt;
-&lt;br/&gt;
-&lt;img src="http://i.imgur.com/RKU1E6H.png" width="100%" /&gt;
-&lt;br/&gt;
-&lt;h1&gt;&lt;b&gt;&lt;a href="http://bG10-40328245.rhcloud.com/bg10_40328245/threegears" target="_new"&gt;&lt;font　face="標楷體"&gt;自製2D繪圖&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h1&gt;
-&lt;br/&gt;
-&lt;img src="http://i.imgur.com/IGKJRA8.png" width="100%" /&gt;
-&lt;br/&gt;
-&lt;font　face="標楷體"&gt;&lt;b&gt;&lt;h2&gt;心得&lt;/h2&gt;&lt;/b&gt;&lt;/font&gt;
-&lt;font　face="標楷體"&gt;&lt;h3&gt;先利用solvespace畫出圖形，長出後再點出那個建立的面，再將那個面存檔，存檔之後利用SciTE開啟檔案，再來利用上面的數據更改至自己的畫布。這個作業我學到怎麼讓遠端的人也可以知道我畫甚麼，也能了解數據對圖檔的重要性。&lt;/h3&gt;&lt;/font&gt;
-&lt;br/&gt;
-&lt;font　face="標楷體"&gt;&lt;h2&gt;自評分數:&lt;/h2&gt;&lt;/font&gt;
-&lt;br/&gt;
-&lt;font　face="標楷體"&gt;&lt;h3&gt;65分&lt;/h3&gt;&lt;/font&gt;
-&lt;br/&gt;
-&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
-&lt;br/&gt;
-&lt;h1&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/0103bfe3fc4acdeb4162e65c/w/ce85345ba3833c24f4cb247f/e/d59ca74c39734145e77c07fa" target="_new"&gt;&lt;font　face="標楷體"&gt;網際 3D 正齒輪傳動模擬 (一)&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h1&gt;
-&lt;br/&gt;
-&lt;img src="http://i.imgur.com/UAartfk.png" width="100%" /&gt;
-&lt;br/&gt;
-&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/0103bfe3fc4acdeb4162e65c/w/ce85345ba3833c24f4cb247f/e/5f21556f2348cf92203569ab" target="_new"&gt;&lt;font　face="標楷體"&gt;15齒齒輪&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
-&lt;br/&gt;
-&lt;img src="http://i.imgur.com/TlfEbNS.png" width="100%" /&gt;
-&lt;br/&gt;
-&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/0103bfe3fc4acdeb4162e65c/w/ce85345ba3833c24f4cb247f/e/6cb48622ff4a710fa88c3a26" target="_new"&gt;&lt;font　face="標楷體"&gt;20齒齒輪&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
-&lt;br/&gt;
-&lt;img src="http://i.imgur.com/asjkrvi.png" width="100%" /&gt;
-&lt;br/&gt;
-&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/0103bfe3fc4acdeb4162e65c/w/ce85345ba3833c24f4cb247f/e/16982abac686b5dfd1fd8a2e" target="_new"&gt;&lt;font　face="標楷體"&gt;30齒齒輪&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
-&lt;br/&gt;
-&lt;img src="http://i.imgur.com/7uPaBMu.png" width="100%" /&gt;
-&lt;br/&gt;
-&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/0103bfe3fc4acdeb4162e65c/w/ce85345ba3833c24f4cb247f/e/f709afa1c035bf0359458fbe" target="_new"&gt;&lt;font　face="標楷體"&gt;40齒齒輪&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
-&lt;br/&gt;
-&lt;img src="http://i.imgur.com/UW5SNjI.png" width="100%" /&gt;
-&lt;br/&gt;
-&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/0103bfe3fc4acdeb4162e65c/w/ce85345ba3833c24f4cb247f/e/6c48a0f963ef10ad07c9540b" target="_new"&gt;&lt;font　face="標楷體"&gt;面版圖&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
-&lt;br/&gt;
-&lt;img src="http://i.imgur.com/YPi9kY0.png" width="100%" /&gt;
-&lt;br/&gt;
-&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/0103bfe3fc4acdeb4162e65c/w/ce85345ba3833c24f4cb247f/e/d59ca74c39734145e77c07fa" target="_new"&gt;&lt;font　face="標楷體"&gt;齒輪完成圖&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
-&lt;br/&gt;
-&lt;font　face="標楷體"&gt;&lt;b&gt;&lt;h2&gt;心得&lt;/h2&gt;&lt;/b&gt;&lt;/font&gt;
-&lt;font　face="標楷體"&gt;&lt;h3&gt;先調單位為mm，利用呼叫叫出齒輪，接著輸入齒數跟模數(必須一樣)還有齒輪直徑與內部洞的直徑，以此類推做四個之後，做一個面板，每根桿子的距離為兩兩齒輪的直徑相加/2。囓合之後會有齒輪相疊的情形，這時應該去調齒輪的角度，通常調半齒，計算式為(360/齒數/2)度。在這裡我學會了齒輪如何囓合在一起，也更了解onshape的使用。&lt;/h3&gt;&lt;/font&gt;
-&lt;br/&gt;
-&lt;font　face="標楷體"&gt;&lt;h2&gt;自評分數:&lt;/h2&gt;&lt;/font&gt;
-&lt;font　face="標楷體"&gt;&lt;h3&gt;65分&lt;/h3&gt;&lt;/font&gt;
-&lt;br/&gt;
-&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
-&lt;br/&gt;
-&lt;h1&gt;&lt;b&gt;&lt;a href="http://40328245-40328245.rhcloud.com/bg10_40328245/threegears" target="_new"&gt;&lt;font　face="標楷體"&gt;網際 2D 正齒輪傳動囓合繪圖&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h1&gt;
-&lt;br/&gt;
-&lt;img src="http://i.imgur.com/KTrTd7V.png" width="100%" /&gt;
-&lt;br/&gt;
-&lt;font　face="標楷體"&gt;&lt;b&gt;&lt;h2&gt;心得&lt;/h2&gt;&lt;/b&gt;&lt;/font&gt;
-&lt;font　face="標楷體"&gt;&lt;h3&gt;先在上面建立齒數以及節圓半徑，再利用角度的偏移更改spur(cx, cy, m, n, pa, theta)的theta來算出囓合的角度。在這裡我了解了數學在齒輪上的重要性，我先利用theta2跟theta3，再推算theta4與5。得到的結果再放在theta的格子上，就完成四跟五的齒輪囓合。還有畫布太小，5只能顯示一半的齒論&lt;/h3&gt;&lt;/font&gt;
-&lt;br/&gt;
-&lt;font　face="標楷體"&gt;&lt;h2&gt;自評分數:&lt;/h2&gt;&lt;/font&gt;
-&lt;font　face="標楷體"&gt;&lt;h3&gt;65分&lt;/h3&gt;&lt;/font&gt;
-&lt;br/&gt;
-&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
-&lt;br/&gt;
-&lt;h1&gt;&lt;b&gt;&lt;a href="http://40328245-40328245.rhcloud.com/bg10_40328245/eighteenthirty" target="_new"&gt;&lt;font　face="標楷體"&gt;自行車傳動 2D 鏈條繪圖&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h1&gt;
-&lt;br/&gt;
-&lt;img src="http://i.imgur.com/L8xGu2x.png" width="100%" /&gt;
-&lt;br/&gt;
-&lt;b&gt;&lt;ul type=disc&gt;&lt;font　face="標楷體"&gt;&lt;h2&gt;心得&lt;/h2&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/b&gt;
-&lt;br/&gt;
-&lt;h3&gt;首先使用solvespace分析鏈條，再藉由分析所得出的數據畫出，然後再更改為可調式參數&lt;/h3&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;h3&gt;這學期的課程讓我對繪圖有更多的了解還有協同的重要性，一開始用solvespace分析，到後來的3D齒輪設計頁，其中讓我收穫良多的是齒輪的設計學習當齒輪產生干涉時需要用哪些方法來修正，如果能好好深入研究，未來是可以成為自己在職場上的武器。&lt;/h3&gt;
 &lt;br/&gt;
 &lt;h2&gt;自評分數&lt;/h2&gt;
-&lt;h3&gt;65分&lt;/h3&gt;
+&lt;h3&gt;70分&lt;/h3&gt;
 &lt;br/&gt;
 &lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
-&lt;br/&gt;&lt;/p&gt;</summary><category term="40328245"></category></entry><entry><title>40328245 網際 3D 正齒輪傳動模擬 (二)</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40328245-wang-ji-3d-zheng-chi-lun-chuan-dong-mo-ni-er.html" rel="alternate"></link><updated>2016-06-25T22:07:17+08:00</updated><author><name>403282425</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40328245-wang-ji-3d-zheng-chi-lun-chuan-dong-mo-ni-er.html</id><summary type="html">&lt;p&gt;內容規畫 :&lt;br /&gt;
+&lt;br/&gt;
+&lt;h3&gt;onshape&lt;/h3&gt;
+&lt;img src="http://i.imgur.com/XN9jlNa.png"&gt;
+&lt;br/&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;h3&gt;老師所給的齒數是需要去分析干涉的問題，主要的困難的是如何解決干涉。在這方面我跟組員們協調了很多次。&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
+&lt;br/&gt;
+&lt;h3&gt;自製2D繪圖&lt;/h3&gt;
+&lt;img src="http://i.imgur.com/U5VtzrP.png"&gt;
+&lt;br/&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;h3&gt;這個2D部分的步驟與之前cdw2類似，把畫好的solvespace轉乘2D ，然後在網頁上看，達到2D繪圖的目的。之前多次嘗試在繪圖上都繪卡卡的，多虧同學傳授一些小技巧，讓我在繪圖能進行得更順利&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
+&lt;br/&gt;
+&lt;h3&gt;網際 3D 正齒輪傳動模擬 (一)&lt;/h3&gt;
+&lt;img src="http://i.imgur.com/sQ7Hv1x.png"&gt;
+&lt;br/&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;h3&gt;組合上面比較沒什麼困難 主要是各個齒輪的間隙 如果調整不好的話就會有干涉&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h2&gt;自評分數&lt;/h2&gt;
+&lt;h3&gt;70分&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
+&lt;br/&gt;
+&lt;h3&gt;網際 2D 正齒輪傳動囓合繪圖&lt;/h3&gt;
+&lt;img src="http://i.imgur.com/JUr49S8.png"&gt;
+&lt;br/&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;h3&gt;一開始把老師的檔案下載然後使用leo去調整成可調式參數 反覆嘗試之後漸漸熟練 並沒有什麼難度 &lt;/h3&gt;
+&lt;br/&gt;
+&lt;h2&gt;自評分數&lt;/h2&gt;
+&lt;h3&gt;70分&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
+&lt;br/&gt;
+&lt;h3&gt;自行車傳動 2D 鏈條繪圖 (二)&lt;/h3&gt;
+&lt;img src="http://i.imgur.com/mHr7RUg.png"&gt;
+&lt;br/&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;h3&gt;一開始並不知道怎麼下手 請教同學後發現要先從solvespace的分析 在使用leo調成可調式參數&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h2&gt;自評分數&lt;/h2&gt;
+&lt;h3&gt;70分&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
+&lt;br/&gt;&lt;/p&gt;</summary><category term="40323241"></category></entry><entry><title>40323241 w18-2報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323241-w18-2bao-gao.html" rel="alternate"></link><updated>2016-06-26T00:40:44+08:00</updated><author><name>40323241</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40323241-w18-2bao-gao.html</id><summary type="html">&lt;p&gt;內容規畫 :&lt;br /&gt;
 
-&lt;b&gt;&lt;ul type=disc&gt;&lt;font　face="標楷體"&gt;&lt;h3&gt;網際 3D 正齒輪傳動模擬 (二)&lt;/h3&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/b&gt;
+&lt;h3&gt;onshape&lt;/h3&gt;
+&lt;img src="http://i.imgur.com/jZWqkm8.png"&gt;
 &lt;br/&gt;
-&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/2208c22ac5bb85c8b06fc105/w/e0eaa45b0e1245895691deb0/e/db4dd447b46397b006d10a9b" target="_new"&gt;&lt;font　face="標楷體"&gt;22齒齒輪&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;h3&gt;老師所給的齒數是需要去分析干涉的問題，主要的困難的是如何解決干涉。在這方面我跟組員們協調了很多次。&lt;/h3&gt;
 &lt;br/&gt;
-&lt;img src="http://i.imgur.com/GvVdSfD.png" width="100%" /&gt;
-&lt;br/&gt;
-&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/2208c22ac5bb85c8b06fc105/w/e0eaa45b0e1245895691deb0/e/a8906ce6636d97b33c900e34" target="_new"&gt;&lt;font　face="標楷體"&gt;面版圖&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
-&lt;br/&gt;
-&lt;img src="http://i.imgur.com/cddaiOg.png" width="100%" /&gt;
-&lt;br/&gt;
-&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/2208c22ac5bb85c8b06fc105/w/e0eaa45b0e1245895691deb0/e/3fa2988f81a155daade299f6" target="_new"&gt;&lt;font　face="標楷體"&gt;完成圖&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
-&lt;br/&gt;
-&lt;img src="http://i.imgur.com/wAmugha.png" width="100%" /&gt;
-&lt;br/&gt;
-&lt;b&gt;&lt;ul type=disc&gt;&lt;font　face="標楷體"&gt;&lt;h2&gt;心得&lt;/h2&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/b&gt;
-&lt;font　face="標楷體"&gt;&lt;h3&gt;先將尺寸改成mm，一樣再利用呼叫跑出spur gear，再利用它來建立新的齒輪。因為這次是和大家一起畫，所以若要囓合大家的齒輪，齒輪跟齒掄之間的角度需要調才可以成功囓合大家的角度。&lt;/h3&gt;&lt;/font&gt;
-&lt;br/&gt;
-&lt;b&gt;&lt;ul type=disc&gt;&lt;font　face="標楷體"&gt;&lt;h2&gt;自評分數&lt;/h2&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/b&gt;
-&lt;br/&gt;
-&lt;h3&gt;65分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40328245"></category></entry><entry><title>40328245 2d繪圖</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40328245-2dhui-tu.html" rel="alternate"></link><updated>2016-06-25T22:07:17+08:00</updated><author><name>40328245</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40328245-2dhui-tu.html</id><summary type="html">&lt;p&gt;內容規畫 :&lt;br /&gt;
+&lt;h2&gt;自評分數&lt;/h2&gt;
+&lt;h3&gt;70分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323241"></category></entry><entry><title>40323241 w18-1報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323241-w18-1bao-gao.html" rel="alternate"></link><updated>2016-06-26T00:40:44+08:00</updated><author><name>40323241</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40323241-w18-1bao-gao.html</id><summary type="html">&lt;p&gt;內容規畫 :&lt;br /&gt;
 
 &lt;h3&gt;自製2d繪圖&lt;/h3&gt;
+&lt;img src="http://i.imgur.com/77rCoai.png"&gt;
 &lt;br/&gt;
-&lt;b&gt;&lt;ul type=disc&gt;&lt;font　face="標楷體"&gt;&lt;h3&gt;草圖&lt;/h3&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/b&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;h3&gt;這個2D部分的步驟與之前cdw2類似，把畫好的solvespace轉乘2D ，然後在網頁上看，達到2D繪圖的目的。之前多次嘗試在繪圖上都繪卡卡的，多虧同學傳授一些小技巧，讓我在繪圖能進行得更順利&lt;/h3&gt;
 &lt;br/&gt;
-&lt;img src="http://i.imgur.com/RKU1E6H.png" width="100%" /&gt;
-&lt;br/&gt;
-&lt;h1&gt;&lt;b&gt;&lt;a href="http://bG10-40328245.rhcloud.com/bg10_40328245/40328245_hw" target="_new"&gt;&lt;font　face="標楷體"&gt;自製2D繪圖&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h1&gt;
-&lt;br/&gt;
-&lt;img src="http://i.imgur.com/IGKJRA8.png" width="100%" /&gt;
-&lt;br/&gt;
-&lt;font　face="標楷體"&gt;&lt;b&gt;&lt;h2&gt;心得&lt;/h2&gt;&lt;/b&gt;&lt;/font&gt;
-&lt;font　face="標楷體"&gt;&lt;h3&gt;先利用solvespace畫出圖形，長出後再點出那個建立的面，再將那個面存檔，存檔之後利用SciTE開啟檔案，再來利用上面的數據更改至自己的畫布。這個作業我學到怎麼讓遠端的人也可以知道我畫甚麼，也能了解數據對圖檔的重要性。&lt;/h3&gt;&lt;/font&gt;
-&lt;br/&gt;
-&lt;font　face="標楷體"&gt;&lt;h2&gt;自評分數:&lt;/h2&gt;&lt;/font&gt;
-&lt;br/&gt;
-&lt;font　face="標楷體"&gt;&lt;h3&gt;65分&lt;/h3&gt;&lt;/font&gt;&lt;/p&gt;</summary><category term="40328245"></category></entry><entry><title>40323233 期末報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323233-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-25T22:06:25+08:00</updated><author><name>40323233</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40323233-qi-mo-bao-gao.html</id><summary type="html">&lt;p&gt;期末協同報告 
+&lt;h2&gt;自評分數&lt;/h2&gt;
+&lt;h3&gt;70分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323241"></category></entry><entry><title>40323233 期末報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323233-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40323233</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40323233-qi-mo-bao-gao.html</id><summary type="html">&lt;p&gt;期末協同報告 
 
 &lt;h3&gt;鍊條轉90度&lt;/h3&gt;
 &lt;img src="http://i.imgur.com/vG6xFgy.png"&gt; 
@@ -163,19 +93,19 @@
 &lt;/br&gt;
 &lt;p&gt;(3D正齒輪傳動模擬)&lt;/p&gt;
 &lt;p&gt;Onshape 的正齒輪設計繪圖與組立, 
-跟與先前的 2D 網際繪圖類似, 只是在 3D 正齒輪傳動組立過程, Onshape Part Studio 中,所有的零件可以透過統一的設計變數進行控管, 但若一旦設計流程的變化超出原先表單的設定範圍 (例如: SG Featurescript 中的 Offset angle 只允許 0-360 的正值角度輸入)&lt;/p&gt;&lt;/p&gt;</summary><category term="40323233"></category></entry><entry><title>40323250 cdw11報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323250-cdw11bao-gao.html" rel="alternate"></link><updated>2016-06-25T22:06:25+08:00</updated><author><name>40323250</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40323250-cdw11bao-gao.html</id><summary type="html">&lt;p&gt;cdw11內容規畫 :&lt;br /&gt;
+跟與先前的 2D 網際繪圖類似, 只是在 3D 正齒輪傳動組立過程, Onshape Part Studio 中,所有的零件可以透過統一的設計變數進行控管, 但若一旦設計流程的變化超出原先表單的設定範圍 (例如: SG Featurescript 中的 Offset angle 只允許 0-360 的正值角度輸入)&lt;/p&gt;&lt;/p&gt;</summary><category term="40323233"></category></entry><entry><title>40323250 cdw11報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323250-cdw11bao-gao.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40323250</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40323250-cdw11bao-gao.html</id><summary type="html">&lt;p&gt;cdw11內容規畫 :&lt;br /&gt;
 
 &lt;h3&gt;利用老師開放之鍊條程式碼，嘗試做出兩個鍊條，並能透過6個參數調整外角、x座標及y座標。&lt;/h3&gt;
 &lt;br/&gt;
 &lt;h3&gt;完成圖:&lt;/h3&gt;
-&lt;img src="http://i.imgur.com/uFnrGsS.png"&gt; &lt;/p&gt;</summary><category term="40323250"></category></entry><entry><title>40323250 cdw13報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323250-cdw13bao-gao.html" rel="alternate"></link><updated>2016-06-25T22:06:25+08:00</updated><author><name>40323250</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40323250-cdw13bao-gao.html</id><summary type="html">&lt;p&gt;cdw13內容規畫 :&lt;br /&gt;
+&lt;img src="http://i.imgur.com/uFnrGsS.png"&gt; &lt;/p&gt;</summary><category term="40323250"></category></entry><entry><title>40323250 cdw13報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323250-cdw13bao-gao.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40323250</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40323250-cdw13bao-gao.html</id><summary type="html">&lt;p&gt;cdw13內容規畫 :&lt;br /&gt;
 
 &lt;h2&gt;將老師的鏈條轉90度&lt;/h2&gt;
 &lt;br/&gt;
 &lt;h3&gt;構想 : 將老師的eighteenthirty的起始角度轉90度之後，會有兩部分分開，只要將兩個圖形都定位到(0, 0)後，找到重疊的部分，再利用三角函數算出座標點差距，就可以接再一起了&lt;/h3&gt;
 &lt;br/&gt;
 &lt;h3&gt;完成圖:&lt;/h3&gt; 
-&lt;img src="http://i.imgur.com/GrKllX7.png"&gt;  &lt;/p&gt;</summary><category term="40323250"></category></entry><entry><title>40323250 期末報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323250-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-25T22:06:25+08:00</updated><author><name>40323250</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40323250-qi-mo-bao-gao.html</id><summary type="html">&lt;p&gt;期末報告 (統整)
+&lt;img src="http://i.imgur.com/GrKllX7.png"&gt;  &lt;/p&gt;</summary><category term="40323250"></category></entry><entry><title>40323250 期末報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323250-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40323250</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40323250-qi-mo-bao-gao.html</id><summary type="html">&lt;p&gt;期末報告 (統整)
 
 &lt;h3&gt;鍊條上30下18齒&lt;/h3&gt;
 從老師的18及30齒中，找到eighteenthirty 或是 其他程式拿來修改，我是用eighteenthirty，然後將兩部分的鏈條分開，並定位到(0,0)位置，就可以開始計算需要移動的距離，就可以很容易的接合，但是修改容易寫程式難，還是要想辦法搞懂程式才行。
@@ -381,7 +311,7 @@ var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s)
 &lt;img src="http://i.imgur.com/NshB1FQ.gif"&gt;
 &lt;/br&gt;
 &lt;/br&gt;
-&lt;h3&gt;自評成績 : 93&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323250"></category></entry><entry><title>40323231 - 4報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323231-4bao-gao.html" rel="alternate"></link><updated>2016-06-25T22:06:25+08:00</updated><author><name>40323231</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40323231-4bao-gao.html</id><summary type="html">&lt;p&gt;40323231-4內容&lt;/p&gt;
+&lt;h3&gt;自評成績 : 93&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323250"></category></entry><entry><title>40323231 - 4報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323231-4bao-gao.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40323231</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40323231-4bao-gao.html</id><summary type="html">&lt;p&gt;40323231-4內容&lt;/p&gt;
 
 
 &lt;h3&gt;本次的作業是多增加一個齒輪，而且要符合現實&lt;/h3&gt;
@@ -411,7 +341,7 @@ var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s)
 &lt;/br&gt;
 &lt;h4&gt;這次的作業非常的好玩有趣，因為能夠自己建立新的齒輪，自己設計，想要多大就多大，想要放哪裡就放哪裡，想要幾個就幾個，而且要配合的那個旋轉角度也很有學問，因為我測試過很多種方式可是都失敗，像是我有測試過旋轉前三個的單齒角度，可是他有基準線，所以變得很難用參數去定義，雖然最後還是只能沿用教材，可是還是理解函數的轉換。&lt;/h4&gt;
 &lt;/br&gt;
-&lt;h3&gt;自評分數 : 85&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323231"></category></entry><entry><title>40323231 - 5報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323231-5bao-gao.html" rel="alternate"></link><updated>2016-06-25T22:06:25+08:00</updated><author><name>40323231</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40323231-5bao-gao.html</id><summary type="html">&lt;p&gt;40323231-5內容&lt;/p&gt;
+&lt;h3&gt;自評分數 : 85&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323231"></category></entry><entry><title>40323231 - 5報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323231-5bao-gao.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40323231</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40323231-5bao-gao.html</id><summary type="html">&lt;p&gt;40323231-5內容&lt;/p&gt;
 
 
 &lt;h3&gt;用onshape繪製齒輪，並能夠轉動&lt;/h3&gt;
@@ -422,17 +352,17 @@ var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s)
 &lt;h3&gt;心得 :&lt;/h3&gt;
 &lt;h4&gt;用onshape繪製能夠轉動的齒輪很有成就感，雖然中途有碰到很多問題，可是經過很多次的測試和和同學討論，像是齒輪和齒輪的配和條件，這個部分就花了很多時間摸索，最後還是完成了。&lt;/h4&gt;
 &lt;/br&gt;
-&lt;h3&gt;自評分數 : 80&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323231"></category></entry><entry><title>40323233 cdw11</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323233-cdw11.html" rel="alternate"></link><updated>2016-06-25T22:06:25+08:00</updated><author><name>40323233</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40323233-cdw11.html</id><summary type="html">&lt;p&gt;cdw11
+&lt;h3&gt;自評分數 : 80&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323231"></category></entry><entry><title>40323233 cdw11</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323233-cdw11.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40323233</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40323233-cdw11.html</id><summary type="html">&lt;p&gt;cdw11
 &lt;/p&gt;
 &lt;p&gt;必須做出兩個鍊條，並且可以透過六個值去調整外角 X座標跟Y座標
-簡單來說就是可以調整鍊條的大小，能自行調整使用者變數數量來產生鍊條。&lt;/p&gt;</summary><category term="40323233"></category></entry><entry><title>40323233 cdw13</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323233-cdw13.html" rel="alternate"></link><updated>2016-06-25T22:06:25+08:00</updated><author><name>40323233</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40323233-cdw13.html</id><summary type="html">&lt;p&gt;cdw13
+簡單來說就是可以調整鍊條的大小，能自行調整使用者變數數量來產生鍊條。&lt;/p&gt;</summary><category term="40323233"></category></entry><entry><title>40323233 cdw13</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323233-cdw13.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40323233</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40323233-cdw13.html</id><summary type="html">&lt;p&gt;cdw13
 &lt;/p&gt;
 &lt;p&gt;這週要做的內容是將老師所給的鏈條轉成90度
 要使用solvespace畫出鍊條後可以得知很多參數，
 把圖定位在(0,0)在利用三角函數算出座標點差距，就可以接再一起了。&lt;/p&gt;
 &lt;p&gt;從老師給的程式碼eighteenthirty中去修改，雖然最後問了同學才知道怎麼改，
 但自己並不是很了解，所以必須加緊腳步了解程式真正的意思。&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://i.imgur.com/vG6xFgy.png"&gt; &lt;/p&gt;</summary><category term="40323233"></category></entry><entry><title>40323233 cdw14</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323233-cdw14.html" rel="alternate"></link><updated>2016-06-25T22:06:25+08:00</updated><author><name>40323233</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40323233-cdw14.html</id><summary type="html">&lt;p&gt;cdw14
+&lt;p&gt;&lt;img src="http://i.imgur.com/vG6xFgy.png"&gt; &lt;/p&gt;</summary><category term="40323233"></category></entry><entry><title>40323233 cdw14</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323233-cdw14.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40323233</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40323233-cdw14.html</id><summary type="html">&lt;p&gt;cdw14
 
 這週的上課內容是複製老師上課所公布的程式碼，然後去做第四個齒輪與第三個齒輪要相嚙合，
 然後再使用Onshape把它畫出來，並且執行模擬。
@@ -440,7 +370,7 @@ var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s)
 之程式。 spur(cx+pr1+pr2+pr3+pr4,cy,m,n4,pa,(180-180/n3)*n3/n4)&lt;/p&gt;
 &lt;p&gt;&lt;img src="http://i.imgur.com/ZD8IQXa.png"&gt;  &lt;/p&gt;
 &lt;p&gt;使用Onshape繪製齒輪時覺得這個雲端網站真的是很方便，繪製完時可以直接進行模擬
-齒輪轉動的過程，希望他之後能發展出更新的東西。&lt;/p&gt;</summary><category term="40323233"></category></entry><entry><title>40323230 期末報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323230-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-25T22:06:25+08:00</updated><author><name>40323230</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40323230-qi-mo-bao-gao.html</id><summary type="html">&lt;p&gt;期末報告 :&lt;br /&gt;
+齒輪轉動的過程，希望他之後能發展出更新的東西。&lt;/p&gt;</summary><category term="40323233"></category></entry><entry><title>40323230 期末報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323230-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40323230</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40323230-qi-mo-bao-gao.html</id><summary type="html">&lt;p&gt;期末報告 :&lt;br /&gt;
 
 &lt;h3&gt;使用Onshape做最終3D參數式繪圖，已達成使用變數調整客戶需求的目的。&lt;/h3&gt;
 &lt;br/&gt;
@@ -495,7 +425,29 @@ var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s)
 &lt;h3&gt;這學期自評：&lt;/h3&gt;
 &lt;br/&gt;
 &lt;h3&gt;75分&lt;/h3&gt;
-&lt;br/&gt;&lt;/p&gt;</summary><category term="40323230"></category></entry><entry><title>40323231 - 1報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323231-1bao-gao.html" rel="alternate"></link><updated>2016-06-25T22:06:25+08:00</updated><author><name>40323231</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40323231-1bao-gao.html</id><summary type="html">&lt;p&gt;40323231-1內容&lt;/p&gt;
+&lt;br/&gt;&lt;/p&gt;</summary><category term="40323230"></category></entry><entry><title>40323230 W13報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323230-w13bao-gao.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40323230</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40323230-w13bao-gao.html</id><summary type="html">&lt;p&gt;cdw13內容規畫 :&lt;br /&gt;
+
+&lt;h3&gt;對照不同的參數做5個齒輪的設定，以符合嚙合的角度，使用者輸入不同參數亦可有相對應的變化。&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h3&gt;完成圖:&lt;/h3&gt;
+&lt;br/&gt;
+&lt;img src="http://i.imgur.com/oDScRcY.jpg"&gt;
+&lt;br/&gt;
+&lt;h3&gt;自評：&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h3&gt;75分&lt;/h3&gt;
+&lt;br/&gt;
+&lt;hr&gt;
+&lt;h3&gt;研究老師給的水平鍊條程式碼，試圖轉成垂直狀。由於兩圓之間的直線鍊條是額外加上去的，必須用三角函數計算做相關調整。&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h3&gt;完成圖:&lt;/h3&gt;
+&lt;br/&gt;
+&lt;img src="http://i.imgur.com/3AUl5yu.jpg"&gt;
+&lt;br/&gt;
+&lt;h3&gt;自評：&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h3&gt;70分&lt;/h3&gt;
+&lt;br/&gt;&lt;/p&gt;</summary><category term="40323230"></category></entry><entry><title>40323231 - 1報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323231-1bao-gao.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40323231</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40323231-1bao-gao.html</id><summary type="html">&lt;p&gt;40323231-1內容&lt;/p&gt;
 
 
 &lt;h3&gt;將複雜的程式分成多項且有序的程式&lt;/h3&gt;
@@ -519,7 +471,7 @@ var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s)
 &lt;/br&gt;
 &lt;h3&gt;心得 :&lt;/h3&gt;
 &lt;h4&gt;本週上的內容能夠快速地找到問題點進而做更改，不用再一行一行找，使整個流程更順暢更快速。&lt;/h4&gt;
-&lt;h3&gt;自評分數 : 70&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323231"></category></entry><entry><title>40323231 - 2報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323231-2bao-gao.html" rel="alternate"></link><updated>2016-06-25T22:06:25+08:00</updated><author><name>40323231</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40323231-2bao-gao.html</id><summary type="html">&lt;p&gt;40323231-2內容&lt;/p&gt;
+&lt;h3&gt;自評分數 : 70&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323231"></category></entry><entry><title>40323231 - 2報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323231-2bao-gao.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40323231</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40323231-2bao-gao.html</id><summary type="html">&lt;p&gt;40323231-2內容&lt;/p&gt;
 
 
 &lt;h3&gt;本次的作業是要將倒的圖形變正的圖形&lt;/h3&gt;
@@ -542,7 +494,7 @@ var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s)
 &lt;/br&gt;
 &lt;h4&gt;本次的課程和作業用solvespace可以得出很多的參數數值，然後這些數值可以直接改變圖的外型、方向、位置等等，所以本次的內容較於多變，而且有很多地方可以呼叫，之後可以增加圖形及改變形狀，所以本周的課程滿喜歡的。&lt;/h4&gt;
 &lt;/br&gt;
-&lt;h3&gt;自評分數 : 85&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323231"></category></entry><entry><title>40323231 - 3報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323231-3bao-gao.html" rel="alternate"></link><updated>2016-06-25T22:06:25+08:00</updated><author><name>40323231</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40323231-3bao-gao.html</id><summary type="html">&lt;p&gt;40323231-3內容&lt;/p&gt;
+&lt;h3&gt;自評分數 : 85&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323231"></category></entry><entry><title>40323231 - 3報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323231-3bao-gao.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40323231</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40323231-3bao-gao.html</id><summary type="html">&lt;p&gt;40323231-3內容&lt;/p&gt;
 
 
 &lt;h3&gt;本次是將固定齒數的三個齒輪，變成可以直接在遠端或近端改變&lt;/h3&gt;
@@ -570,7 +522,7 @@ var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s)
 &lt;/br&gt;
 &lt;h4&gt;這次的作業其實滿簡單的，因為前幾次在做作業中就有曾經用到本次作業的內容，所以很快地就完成了這次作業。&lt;/h4&gt;
 &lt;/br&gt;
-&lt;h3&gt;自評分數 : 80&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323231"></category></entry><entry><title>40323218 cdw13 報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323218-cdw13-bao-gao.html" rel="alternate"></link><updated>2016-06-25T22:06:25+08:00</updated><author><name>40323218</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40323218-cdw13-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;h3&gt;自評分數 : 80&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323231"></category></entry><entry><title>40323218 cdw13 報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323218-cdw13-bao-gao.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40323218</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40323218-cdw13-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;cdw13 內容 : &lt;/h2&gt;
 
@@ -589,7 +541,7 @@ var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s)
 &lt;br/&gt;
 &lt;h4&gt;(startx , starty)、(p , k)是設定圖形位置，first_degree加90度使圖形成垂直。&lt;/h4&gt;
 &lt;br/&gt;
-&lt;h3&gt;自評：75分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323218"></category></entry><entry><title>40323218 cdw14 報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323218-cdw14-bao-gao.html" rel="alternate"></link><updated>2016-06-25T22:06:25+08:00</updated><author><name>40323218</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40323218-cdw14-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;h3&gt;自評：75分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323218"></category></entry><entry><title>40323218 cdw14 報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323218-cdw14-bao-gao.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40323218</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40323218-cdw14-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;cdw14 內容 : &lt;/h2&gt;
 
@@ -605,7 +557,7 @@ var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s)
 &lt;br/&gt;
 &lt;iframe src="https://player.vimeo.com/video/170812747" width="640" height="319" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/170812747"&gt;在Onshape上執行齒輪轉動&lt;/a&gt; from &lt;a href="https://vimeo.com/user44943624"&gt;Li Steven&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;br/&gt;
-&lt;h3&gt;自評：75分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323218"></category></entry><entry><title>40323218 期末報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323218-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-25T22:06:25+08:00</updated><author><name>40323218</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40323218-qi-mo-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;h3&gt;自評：75分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323218"></category></entry><entry><title>40323218 期末報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323218-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40323218</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40323218-qi-mo-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;期末統整 : &lt;/h2&gt;
 
@@ -648,7 +600,7 @@ var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s)
 &lt;br/&gt;
 &lt;h4&gt;這學期一樣是一起協同來完成課題，每個人專研不同的部分，在一起分享教導自己所學的。在OnShape上進步了許多，也對python有更進一步的了解，這學期過得很充實!暑假將至，升大三後需要自訂目標，努力去達成。&lt;/h4&gt;
 &lt;br/&gt;
-&lt;h3&gt;自評：80分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323218"></category></entry><entry><title>40323230 W11報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323230-w11bao-gao.html" rel="alternate"></link><updated>2016-06-25T22:06:25+08:00</updated><author><name>40323230</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40323230-w11bao-gao.html</id><summary type="html">&lt;p&gt;cdw11內容規畫 :&lt;br /&gt;
+&lt;h3&gt;自評：80分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323218"></category></entry><entry><title>40323230 W11報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323230-w11bao-gao.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40323230</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40323230-w11bao-gao.html</id><summary type="html">&lt;p&gt;cdw11內容規畫 :&lt;br /&gt;
 
 &lt;h3&gt;改變鍊條的程式碼，增加第二個鍊條，並能使用6個變數調整兩個鍊條的大小。此外能自行調整使用者變數數量來產生鍊條。&lt;/h3&gt;
 &lt;br/&gt;
@@ -675,29 +627,7 @@ var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s)
 &lt;h3&gt;自評：&lt;/h3&gt;
 &lt;br/&gt;
 &lt;h3&gt;75分&lt;/h3&gt;
-&lt;br/&gt;&lt;/p&gt;</summary><category term="40323230"></category></entry><entry><title>40323230 W13報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323230-w13bao-gao.html" rel="alternate"></link><updated>2016-06-25T22:06:25+08:00</updated><author><name>40323230</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40323230-w13bao-gao.html</id><summary type="html">&lt;p&gt;cdw13內容規畫 :&lt;br /&gt;
-
-&lt;h3&gt;對照不同的參數做5個齒輪的設定，以符合嚙合的角度，使用者輸入不同參數亦可有相對應的變化。&lt;/h3&gt;
-&lt;br/&gt;
-&lt;h3&gt;完成圖:&lt;/h3&gt;
-&lt;br/&gt;
-&lt;img src="http://i.imgur.com/oDScRcY.jpg"&gt;
-&lt;br/&gt;
-&lt;h3&gt;自評：&lt;/h3&gt;
-&lt;br/&gt;
-&lt;h3&gt;75分&lt;/h3&gt;
-&lt;br/&gt;
-&lt;hr&gt;
-&lt;h3&gt;研究老師給的水平鍊條程式碼，試圖轉成垂直狀。由於兩圓之間的直線鍊條是額外加上去的，必須用三角函數計算做相關調整。&lt;/h3&gt;
-&lt;br/&gt;
-&lt;h3&gt;完成圖:&lt;/h3&gt;
-&lt;br/&gt;
-&lt;img src="http://i.imgur.com/3AUl5yu.jpg"&gt;
-&lt;br/&gt;
-&lt;h3&gt;自評：&lt;/h3&gt;
-&lt;br/&gt;
-&lt;h3&gt;70分&lt;/h3&gt;
-&lt;br/&gt;&lt;/p&gt;</summary><category term="40323230"></category></entry><entry><title>40323214 期末 報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323214-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-25T22:06:25+08:00</updated><author><name>40323214</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40323214-qi-mo-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;br/&gt;&lt;/p&gt;</summary><category term="40323230"></category></entry><entry><title>40323214 期末 報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323214-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40323214</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40323214-qi-mo-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;統整
 先學會如何將鍊條轉角度&lt;/h2&gt;
@@ -721,28 +651,12 @@ var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s)
 &lt;img src="http://i.imgur.com/skTfJRw.png"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/br&gt;
 &lt;h2&gt;期末心得:學期末,程式方面真的很複雜,但是有比以前還要更加瞭解,而onshape有了導入齒論的功能,也是方便許多,還有很多不懂部分,需要慢慢瞭解&lt;/h2&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;</summary><category term="403232314"></category></entry><entry><title>40323214 w11 報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323214-w11-bao-gao.html" rel="alternate"></link><updated>2016-06-25T22:06:25+08:00</updated><author><name>40323214</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40323214-w11-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-&lt;h2&gt;其中後的第一個禮拜,利用老師給的新版本,利用參數將圓形的鏈條數量以及位置改變&lt;/h2&gt;
-
-&lt;p&gt;&lt;/br&gt;
-&lt;h2&gt;圖片&lt;/h2&gt;
-&lt;/br&gt;
-&lt;img src="http://i.imgur.com/JnpvhqG.png"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;</summary><category term="403232314"></category></entry><entry><title>40323214 w13 報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323214-w13-bao-gao.html" rel="alternate"></link><updated>2016-06-25T22:06:25+08:00</updated><author><name>40323214</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40323214-w13-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-&lt;h2&gt;將老師給的鏈條 調整90度 會分成兩部分 可以先利用solvespace進行測量計算 就可以將整組鍊條轉90度&lt;/h2&gt;
-
-&lt;p&gt;&lt;/br&gt;
-&lt;h2&gt;圖片&lt;/h2&gt;
-&lt;/br&gt;
-&lt;img src="http://i.imgur.com/yf33Jow.png"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;</summary><category term="403232314"></category></entry><entry><title>40323218 cdw11 報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323218-cdw11-bao-gao.html" rel="alternate"></link><updated>2016-06-25T22:06:25+08:00</updated><author><name>40323218</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40323218-cdw11-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;</summary><category term="403232314"></category></entry><entry><title>40323218 cdw11 報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323218-cdw11-bao-gao.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40323218</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40323218-cdw11-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;/p&gt;
 
 
 &lt;h3&gt;心得 : &lt;/h3&gt;
 
-&lt;p&gt;123&lt;/p&gt;</summary><category term="40323218"></category><category term="cdw11"></category></entry><entry><title>40323218 cdw11報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323218-cdw11bao-gao.html" rel="alternate"></link><updated>2016-06-25T22:06:25+08:00</updated><author><name>40323218</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40323218-cdw11bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;123&lt;/p&gt;</summary><category term="40323218"></category><category term="cdw11"></category></entry><entry><title>40323218 cdw11報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323218-cdw11bao-gao.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40323218</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40323218-cdw11bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;cdw11 內容 : &lt;/h2&gt;
 
@@ -753,25 +667,23 @@ var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s)
 &lt;br/&gt;
 &lt;h4&gt;網址紅線處重左至右分別是代表 x , y  , degree可以自行設定&lt;br/&gt;xy可控制圖中圓心紅點位置&lt;br/&gt;degree控制鍊條角度，最後繪出一個圓。&lt;/h4&gt;
 &lt;br/&gt;
-&lt;h3&gt;自評：70分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323218"></category></entry><entry><title>40328242 w18-1報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40328242-w18-1bao-gao.html" rel="alternate"></link><updated>2016-06-25T22:06:25+08:00</updated><author><name>40328242</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40328242-w18-1bao-gao.html</id><summary type="html">&lt;p&gt;內容規畫 :&lt;br /&gt;
+&lt;h3&gt;自評：70分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323218"></category></entry><entry><title>40323214 w11 報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323214-w11-bao-gao.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40323214</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40323214-w11-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;h3&gt;自製2d繪圖&lt;/h3&gt;
-&lt;img src="http://i.imgur.com/U5VtzrP.png"&gt;
-&lt;br/&gt;
-&lt;h2&gt;心得&lt;/h2&gt;
-&lt;h3&gt;這個2D部分的步驟與之前cdw2類似，把之前的語法拿來用，然後把畫好的solvespace轉乘2D section，用Scite打開，然後將中心資料放到對應位置，然後用localhost在網頁上看，達到2D網際繪圖的目的。&lt;/h3&gt;
-&lt;br/&gt;
-&lt;h2&gt;自評分數&lt;/h2&gt;
-&lt;h3&gt;70分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40328242"></category></entry><entry><title>40328242 w18-2報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40328242-w18-2bao-gao.html" rel="alternate"></link><updated>2016-06-25T22:06:25+08:00</updated><author><name>40328242</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40328242-w18-2bao-gao.html</id><summary type="html">&lt;p&gt;內容規畫 :&lt;br /&gt;
+&lt;h2&gt;其中後的第一個禮拜,利用老師給的新版本,利用參數將圓形的鏈條數量以及位置改變&lt;/h2&gt;
 
-&lt;h3&gt;onshape&lt;/h3&gt;
-&lt;img src="http://i.imgur.com/XN9jlNa.png"&gt;
-&lt;br/&gt;
-&lt;h2&gt;心得&lt;/h2&gt;
-&lt;h3&gt;老師所給的齒數讓我們必須去分析如何才能不干涉，而組裝的過程與之前的步驟相同，比較有困難的是如何調整轉動多少齒來解決干涉。&lt;/h3&gt;
-&lt;br/&gt;
-&lt;h2&gt;自評分數&lt;/h2&gt;
-&lt;h3&gt;70分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40328242"></category></entry><entry><title>40328242 w18-3報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40328242-w18-3bao-gao.html" rel="alternate"></link><updated>2016-06-25T22:06:25+08:00</updated><author><name>40328242</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40328242-w18-3bao-gao.html</id><summary type="html">&lt;p&gt;內容規畫 :
+&lt;p&gt;&lt;/br&gt;
+&lt;h2&gt;圖片&lt;/h2&gt;
+&lt;/br&gt;
+&lt;img src="http://i.imgur.com/JnpvhqG.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;</summary><category term="403232314"></category></entry><entry><title>40323214 w13 報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323214-w13-bao-gao.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40323214</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40323214-w13-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h2&gt;將老師給的鏈條 調整90度 會分成兩部分 可以先利用solvespace進行測量計算 就可以將整組鍊條轉90度&lt;/h2&gt;
+
+&lt;p&gt;&lt;/br&gt;
+&lt;h2&gt;圖片&lt;/h2&gt;
+&lt;/br&gt;
+&lt;img src="http://i.imgur.com/yf33Jow.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;</summary><category term="403232314"></category></entry><entry><title>40328242 w18-3報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40328242-w18-3bao-gao.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40328242</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40328242-w18-3bao-gao.html</id><summary type="html">&lt;p&gt;內容規畫 :
 
 &lt;h3&gt;期末總結&lt;/h3&gt;
 &lt;br/&gt;
@@ -822,7 +734,155 @@ var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s)
 &lt;h3&gt;自行車傳動鏈條經由solvespace的分析，藉由得到的數值再來畫出，然後三個正齒輪則更改為可調式參數。&lt;/h3&gt;
 &lt;br/&gt;
 &lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
-&lt;br/&gt;&lt;/p&gt;</summary><category term="40328242"></category></entry><entry><title>40323199 cdw11 報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323199-cdw11-bao-gao.html" rel="alternate"></link><updated>2016-06-25T22:06:25+08:00</updated><author><name>40323199</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40323199-cdw11-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;/p&gt;
+&lt;br/&gt;&lt;/p&gt;</summary><category term="40328242"></category></entry><entry><title>40328245 2d繪圖</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40328245-2dhui-tu.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40328245</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40328245-2dhui-tu.html</id><summary type="html">&lt;p&gt;內容規畫 :&lt;br /&gt;
+
+&lt;h3&gt;自製2d繪圖&lt;/h3&gt;
+&lt;br/&gt;
+&lt;b&gt;&lt;ul type=disc&gt;&lt;font　face="標楷體"&gt;&lt;h3&gt;草圖&lt;/h3&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/b&gt;
+&lt;br/&gt;
+&lt;img src="http://i.imgur.com/RKU1E6H.png" width="100%" /&gt;
+&lt;br/&gt;
+&lt;h1&gt;&lt;b&gt;&lt;a href="http://bG10-40328245.rhcloud.com/bg10_40328245/40328245_hw" target="_new"&gt;&lt;font　face="標楷體"&gt;自製2D繪圖&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h1&gt;
+&lt;br/&gt;
+&lt;img src="http://i.imgur.com/IGKJRA8.png" width="100%" /&gt;
+&lt;br/&gt;
+&lt;font　face="標楷體"&gt;&lt;b&gt;&lt;h2&gt;心得&lt;/h2&gt;&lt;/b&gt;&lt;/font&gt;
+&lt;font　face="標楷體"&gt;&lt;h3&gt;先利用solvespace畫出圖形，長出後再點出那個建立的面，再將那個面存檔，存檔之後利用SciTE開啟檔案，再來利用上面的數據更改至自己的畫布。這個作業我學到怎麼讓遠端的人也可以知道我畫甚麼，也能了解數據對圖檔的重要性。&lt;/h3&gt;&lt;/font&gt;
+&lt;br/&gt;
+&lt;font　face="標楷體"&gt;&lt;h2&gt;自評分數:&lt;/h2&gt;&lt;/font&gt;
+&lt;br/&gt;
+&lt;font　face="標楷體"&gt;&lt;h3&gt;65分&lt;/h3&gt;&lt;/font&gt;&lt;/p&gt;</summary><category term="40328245"></category></entry><entry><title>40328245 期末總結</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40328245-qi-mo-zong-jie.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40328245</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40328245-qi-mo-zong-jie.html</id><summary type="html">&lt;p&gt;內容規畫 :
+
+&lt;font　face="標楷體"&gt;&lt;b&gt;&lt;h3&gt;期末總結&lt;/h3&gt;&lt;/font&gt;&lt;/b&gt;
+&lt;br/&gt;
+&lt;font　face="標楷體"&gt;&lt;b&gt;&lt;h2&gt;心得&lt;/h2&gt;&lt;/font&gt;&lt;/b&gt;
+&lt;font　face="標楷體"&gt;&lt;h3&gt;這一整個學期學到了怎麼畫onshape的齒輪，也學到齒輪的囓合，還有在雲端如何顯現自己所畫的圖。&lt;/h3&gt;&lt;/font&gt;
+&lt;br/&gt;
+&lt;font　face="標楷體"&gt;&lt;b&gt;&lt;h2&gt;自評分數&lt;/h2&gt;&lt;/b&gt;
+&lt;font　face="標楷體"&gt;&lt;b&gt;&lt;h3&gt;65分&lt;/h3&gt;&lt;/font&gt;&lt;/b&gt;
+&lt;br/&gt;
+&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
+&lt;br/&gt;
+&lt;b&gt;&lt;ul type=disc&gt;&lt;font　face="標楷體"&gt;&lt;h3&gt;網際 3D 正齒輪傳動模擬 (二)&lt;/h3&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/b&gt;
+&lt;br/&gt;
+&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/2208c22ac5bb85c8b06fc105/w/e0eaa45b0e1245895691deb0/e/db4dd447b46397b006d10a9b" target="_new"&gt;&lt;font　face="標楷體"&gt;22齒齒輪&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
+&lt;br/&gt;
+&lt;img src="http://i.imgur.com/GvVdSfD.png" width="100%" /&gt;
+&lt;br/&gt;
+&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/2208c22ac5bb85c8b06fc105/w/e0eaa45b0e1245895691deb0/e/a8906ce6636d97b33c900e34" target="_new"&gt;&lt;font　face="標楷體"&gt;面版圖&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
+&lt;br/&gt;
+&lt;img src="http://i.imgur.com/cddaiOg.png" width="100%" /&gt;
+&lt;br/&gt;
+&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/2208c22ac5bb85c8b06fc105/w/e0eaa45b0e1245895691deb0/e/3fa2988f81a155daade299f6" target="_new"&gt;&lt;font　face="標楷體"&gt;完成圖&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
+&lt;br/&gt;
+&lt;img src="http://i.imgur.com/wAmugha.png" width="100%" /&gt;
+&lt;br/&gt;
+&lt;b&gt;&lt;ul type=disc&gt;&lt;font　face="標楷體"&gt;&lt;h2&gt;心得&lt;/h2&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/b&gt;
+&lt;font　face="標楷體"&gt;&lt;h3&gt;先將尺寸改成mm，一樣再利用呼叫跑出spur gear，再利用它來建立新的齒輪。因為這次是和大家一起畫，所以若要囓合大家的齒輪，齒輪跟齒輪之間的角度需要調才可以成功囓合大家的角度。&lt;/h3&gt;&lt;/font&gt;
+&lt;br/&gt;
+&lt;b&gt;&lt;ul type=disc&gt;&lt;font　face="標楷體"&gt;&lt;h2&gt;自評分數&lt;/h2&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/b&gt;
+&lt;h3&gt;65分&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
+&lt;h3&gt;自製2d繪圖&lt;/h3&gt;
+&lt;br/&gt;
+&lt;b&gt;&lt;ul type=disc&gt;&lt;font　face="標楷體"&gt;&lt;h3&gt;草圖&lt;/h3&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/b&gt;
+&lt;br/&gt;
+&lt;img src="http://i.imgur.com/RKU1E6H.png" width="100%" /&gt;
+&lt;br/&gt;
+&lt;h1&gt;&lt;b&gt;&lt;a href="http://bG10-40328245.rhcloud.com/bg10_40328245/threegears" target="_new"&gt;&lt;font　face="標楷體"&gt;自製2D繪圖&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h1&gt;
+&lt;br/&gt;
+&lt;img src="http://i.imgur.com/IGKJRA8.png" width="100%" /&gt;
+&lt;br/&gt;
+&lt;font　face="標楷體"&gt;&lt;b&gt;&lt;h2&gt;心得&lt;/h2&gt;&lt;/b&gt;&lt;/font&gt;
+&lt;font　face="標楷體"&gt;&lt;h3&gt;先利用solvespace畫出圖形，長出後再點出那個建立的面，再將那個面存檔，存檔之後利用SciTE開啟檔案，再來利用上面的數據更改至自己的畫布。這個作業我學到怎麼讓遠端的人也可以知道我畫甚麼，也能了解數據對圖檔的重要性。&lt;/h3&gt;&lt;/font&gt;
+&lt;br/&gt;
+&lt;font　face="標楷體"&gt;&lt;h2&gt;自評分數:&lt;/h2&gt;&lt;/font&gt;
+&lt;br/&gt;
+&lt;font　face="標楷體"&gt;&lt;h3&gt;65分&lt;/h3&gt;&lt;/font&gt;
+&lt;br/&gt;
+&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
+&lt;br/&gt;
+&lt;h1&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/0103bfe3fc4acdeb4162e65c/w/ce85345ba3833c24f4cb247f/e/d59ca74c39734145e77c07fa" target="_new"&gt;&lt;font　face="標楷體"&gt;網際 3D 正齒輪傳動模擬 (一)&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h1&gt;
+&lt;br/&gt;
+&lt;img src="http://i.imgur.com/UAartfk.png" width="100%" /&gt;
+&lt;br/&gt;
+&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/0103bfe3fc4acdeb4162e65c/w/ce85345ba3833c24f4cb247f/e/5f21556f2348cf92203569ab" target="_new"&gt;&lt;font　face="標楷體"&gt;15齒齒輪&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
+&lt;br/&gt;
+&lt;img src="http://i.imgur.com/TlfEbNS.png" width="100%" /&gt;
+&lt;br/&gt;
+&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/0103bfe3fc4acdeb4162e65c/w/ce85345ba3833c24f4cb247f/e/6cb48622ff4a710fa88c3a26" target="_new"&gt;&lt;font　face="標楷體"&gt;20齒齒輪&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
+&lt;br/&gt;
+&lt;img src="http://i.imgur.com/asjkrvi.png" width="100%" /&gt;
+&lt;br/&gt;
+&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/0103bfe3fc4acdeb4162e65c/w/ce85345ba3833c24f4cb247f/e/16982abac686b5dfd1fd8a2e" target="_new"&gt;&lt;font　face="標楷體"&gt;30齒齒輪&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
+&lt;br/&gt;
+&lt;img src="http://i.imgur.com/7uPaBMu.png" width="100%" /&gt;
+&lt;br/&gt;
+&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/0103bfe3fc4acdeb4162e65c/w/ce85345ba3833c24f4cb247f/e/f709afa1c035bf0359458fbe" target="_new"&gt;&lt;font　face="標楷體"&gt;40齒齒輪&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
+&lt;br/&gt;
+&lt;img src="http://i.imgur.com/UW5SNjI.png" width="100%" /&gt;
+&lt;br/&gt;
+&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/0103bfe3fc4acdeb4162e65c/w/ce85345ba3833c24f4cb247f/e/6c48a0f963ef10ad07c9540b" target="_new"&gt;&lt;font　face="標楷體"&gt;面版圖&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
+&lt;br/&gt;
+&lt;img src="http://i.imgur.com/YPi9kY0.png" width="100%" /&gt;
+&lt;br/&gt;
+&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/0103bfe3fc4acdeb4162e65c/w/ce85345ba3833c24f4cb247f/e/d59ca74c39734145e77c07fa" target="_new"&gt;&lt;font　face="標楷體"&gt;齒輪完成圖&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
+&lt;br/&gt;
+&lt;font　face="標楷體"&gt;&lt;b&gt;&lt;h2&gt;心得&lt;/h2&gt;&lt;/b&gt;&lt;/font&gt;
+&lt;font　face="標楷體"&gt;&lt;h3&gt;先調單位為mm，利用呼叫叫出齒輪，接著輸入齒數跟模數(必須一樣)還有齒輪直徑與內部洞的直徑，以此類推做四個之後，做一個面板，每根桿子的距離為兩兩齒輪的直徑相加/2。囓合之後會有齒輪相疊的情形，這時應該去調齒輪的角度，通常調半齒，計算式為(360/齒數/2)度。在這裡我學會了齒輪如何囓合在一起，也更了解onshape的使用。&lt;/h3&gt;&lt;/font&gt;
+&lt;br/&gt;
+&lt;font　face="標楷體"&gt;&lt;h2&gt;自評分數:&lt;/h2&gt;&lt;/font&gt;
+&lt;font　face="標楷體"&gt;&lt;h3&gt;65分&lt;/h3&gt;&lt;/font&gt;
+&lt;br/&gt;
+&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
+&lt;br/&gt;
+&lt;h1&gt;&lt;b&gt;&lt;a href="http://40328245-40328245.rhcloud.com/bg10_40328245/threegears" target="_new"&gt;&lt;font　face="標楷體"&gt;網際 2D 正齒輪傳動囓合繪圖&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h1&gt;
+&lt;br/&gt;
+&lt;img src="http://i.imgur.com/KTrTd7V.png" width="100%" /&gt;
+&lt;br/&gt;
+&lt;font　face="標楷體"&gt;&lt;b&gt;&lt;h2&gt;心得&lt;/h2&gt;&lt;/b&gt;&lt;/font&gt;
+&lt;font　face="標楷體"&gt;&lt;h3&gt;先在上面建立齒數以及節圓半徑，再利用角度的偏移更改spur(cx, cy, m, n, pa, theta)的theta來算出囓合的角度。在這裡我了解了數學在齒輪上的重要性，我先利用theta2跟theta3，再推算theta4與5。得到的結果再放在theta的格子上，就完成四跟五的齒輪囓合。還有畫布太小，5只能顯示一半的齒論&lt;/h3&gt;&lt;/font&gt;
+&lt;br/&gt;
+&lt;font　face="標楷體"&gt;&lt;h2&gt;自評分數:&lt;/h2&gt;&lt;/font&gt;
+&lt;font　face="標楷體"&gt;&lt;h3&gt;65分&lt;/h3&gt;&lt;/font&gt;
+&lt;br/&gt;
+&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
+&lt;br/&gt;
+&lt;h1&gt;&lt;b&gt;&lt;a href="http://40328245-40328245.rhcloud.com/bg10_40328245/eighteenthirty" target="_new"&gt;&lt;font　face="標楷體"&gt;自行車傳動 2D 鏈條繪圖&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h1&gt;
+&lt;br/&gt;
+&lt;img src="http://i.imgur.com/L8xGu2x.png" width="100%" /&gt;
+&lt;br/&gt;
+&lt;b&gt;&lt;ul type=disc&gt;&lt;font　face="標楷體"&gt;&lt;h2&gt;心得&lt;/h2&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/b&gt;
+&lt;br/&gt;
+&lt;h3&gt;首先使用solvespace分析鏈條，再藉由分析所得出的數據畫出，然後再更改為可調式參數&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h2&gt;自評分數&lt;/h2&gt;
+&lt;h3&gt;65分&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
+&lt;br/&gt;&lt;/p&gt;</summary><category term="40328245"></category></entry><entry><title>40328245 網際 3D 正齒輪傳動模擬 (二)</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40328245-wang-ji-3d-zheng-chi-lun-chuan-dong-mo-ni-er.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>403282425</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40328245-wang-ji-3d-zheng-chi-lun-chuan-dong-mo-ni-er.html</id><summary type="html">&lt;p&gt;內容規畫 :&lt;br /&gt;
+
+&lt;b&gt;&lt;ul type=disc&gt;&lt;font　face="標楷體"&gt;&lt;h3&gt;網際 3D 正齒輪傳動模擬 (二)&lt;/h3&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/b&gt;
+&lt;br/&gt;
+&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/2208c22ac5bb85c8b06fc105/w/e0eaa45b0e1245895691deb0/e/db4dd447b46397b006d10a9b" target="_new"&gt;&lt;font　face="標楷體"&gt;22齒齒輪&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
+&lt;br/&gt;
+&lt;img src="http://i.imgur.com/GvVdSfD.png" width="100%" /&gt;
+&lt;br/&gt;
+&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/2208c22ac5bb85c8b06fc105/w/e0eaa45b0e1245895691deb0/e/a8906ce6636d97b33c900e34" target="_new"&gt;&lt;font　face="標楷體"&gt;面版圖&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
+&lt;br/&gt;
+&lt;img src="http://i.imgur.com/cddaiOg.png" width="100%" /&gt;
+&lt;br/&gt;
+&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/2208c22ac5bb85c8b06fc105/w/e0eaa45b0e1245895691deb0/e/3fa2988f81a155daade299f6" target="_new"&gt;&lt;font　face="標楷體"&gt;完成圖&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
+&lt;br/&gt;
+&lt;img src="http://i.imgur.com/wAmugha.png" width="100%" /&gt;
+&lt;br/&gt;
+&lt;b&gt;&lt;ul type=disc&gt;&lt;font　face="標楷體"&gt;&lt;h2&gt;心得&lt;/h2&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/b&gt;
+&lt;font　face="標楷體"&gt;&lt;h3&gt;先將尺寸改成mm，一樣再利用呼叫跑出spur gear，再利用它來建立新的齒輪。因為這次是和大家一起畫，所以若要囓合大家的齒輪，齒輪跟齒掄之間的角度需要調才可以成功囓合大家的角度。&lt;/h3&gt;&lt;/font&gt;
+&lt;br/&gt;
+&lt;b&gt;&lt;ul type=disc&gt;&lt;font　face="標楷體"&gt;&lt;h2&gt;自評分數&lt;/h2&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/b&gt;
+&lt;br/&gt;
+&lt;h3&gt;65分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40328245"></category></entry><entry><title>40323199 cdw11 報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40323199-cdw11-bao-gao.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40323199</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40323199-cdw11-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;/p&gt;
 
 
 &lt;p&gt;pelican 網誌位置: &lt;a href="http://cdw11-ag100.rhcloud.com/static/"&gt;http://cdw11-ag100.rhcloud.com/static/&lt;/a&gt;&lt;/p&gt;
@@ -832,4 +892,22 @@ var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s)
 &lt;p&gt;請各組在 CDW11 下課前完成下列3個圖形的零件組合繪圖:&lt;/p&gt;
 &lt;p&gt;&lt;img src="http://cdw11-ag100.rhcloud.com/images/cdw11_4a.png" width="100%" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="http://cdw11-ag100.rhcloud.com/images/cdw11_badc.png" width="100%" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://cdw11-ag100.rhcloud.com/images/cdw11_abcd.png" width="100%" /&gt;&lt;/p&gt;</summary><category term="40323199"></category><category term="cdw11"></category></entry></feed>
+&lt;p&gt;&lt;img src="http://cdw11-ag100.rhcloud.com/images/cdw11_abcd.png" width="100%" /&gt;&lt;/p&gt;</summary><category term="40323199"></category><category term="cdw11"></category></entry><entry><title>40328242 w18-1報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40328242-w18-1bao-gao.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40328242</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40328242-w18-1bao-gao.html</id><summary type="html">&lt;p&gt;內容規畫 :&lt;br /&gt;
+
+&lt;h3&gt;自製2d繪圖&lt;/h3&gt;
+&lt;img src="http://i.imgur.com/U5VtzrP.png"&gt;
+&lt;br/&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;h3&gt;這個2D部分的步驟與之前cdw2類似，把之前的語法拿來用，然後把畫好的solvespace轉乘2D section，用Scite打開，然後將中心資料放到對應位置，然後用localhost在網頁上看，達到2D網際繪圖的目的。&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h2&gt;自評分數&lt;/h2&gt;
+&lt;h3&gt;70分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40328242"></category></entry><entry><title>40328242 w18-2報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40328242-w18-2bao-gao.html" rel="alternate"></link><updated>2016-06-26T00:02:05+08:00</updated><author><name>40328242</name></author><id>tag:40328242.github.io,2016-06-26:2016springcd_bG10/static/blog/40328242-w18-2bao-gao.html</id><summary type="html">&lt;p&gt;內容規畫 :&lt;br /&gt;
+
+&lt;h3&gt;onshape&lt;/h3&gt;
+&lt;img src="http://i.imgur.com/XN9jlNa.png"&gt;
+&lt;br/&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;h3&gt;老師所給的齒數讓我們必須去分析如何才能不干涉，而組裝的過程與之前的步驟相同，比較有困難的是如何調整轉動多少齒來解決干涉。&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h2&gt;自評分數&lt;/h2&gt;
+&lt;h3&gt;70分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40328242"></category></entry></feed>
