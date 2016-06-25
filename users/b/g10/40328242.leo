@@ -10,62 +10,61 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20160501215436.2" a="E"><vh>pelican 部份</vh>
-<v t="amd.20160501215558.1" a="E"><vh>@path ./../../../</vh>
-<v t="amd.20160501223113.1"><vh>@edit README.md</vh></v>
-<v t="amd.20160501215634.1" a="E"><vh>@path static</vh>
-<v t="amd.20160501220009.1" a="E"><vh>假如要送到 gh-pages 分支, 使用下列按鈕</vh>
-<v t="amd.20160501220009.2"><vh>@button gh-pages pelican</vh></v>
+<v t="leo.20160625171823.1" a="E"><vh>40328242-pelican 網誌</vh>
+<v t="leo.20160625171823.2" a="E"><vh>@path ./../../../</vh>
+<v t="leo.20160625171823.3" a="E"><vh>@path static</vh>
+<v t="leo.20160625171823.4" a="E"><vh>假如要送到 gh-pages 分支, 使用下列按鈕</vh>
+<v t="leo.20160625171823.5"><vh>@button gh-pages pelican</vh></v>
 </v>
-<v t="amd.20160501220029.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
-<v t="amd.20160501220029.2"><vh>@button local pelican</vh></v>
+<v t="leo.20160625171823.6" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
+<v t="leo.20160625171823.7"><vh>@button local pelican</vh></v>
 </v>
-<v t="amd.20160501215942.1" a="E"><vh>@path content/b/g10</vh>
-<v t="amd.20160501215720.1"><vh>@edit 40328242-20160623.md</vh></v>
+<v t="leo.20160625171823.8" a="E"><vh>@path content/b/g10</vh>
+<v t="leo.20160625171823.9"><vh>@edit 40328242-w18-1.md</vh></v>
+<v t="leo.20160625171823.10"><vh>@edit 40328242-w18-2.md</vh></v>
+<v t="leo.20160625171823.11"><vh>@edit 40328242-w18-3.md</vh></v>
 </v>
 </v>
 </v>
 </v>
-<v t="amd.20160501215545.1" a="E"><vh>wsgi 程式部份</vh>
-<v t="amd.20160501221015.1" a="E"><vh>@path ./../../../</vh>
-<v t="amd.20160501221001.1" a="E"><vh>@clean myflaskapp.py</vh>
-<v t="amd.20160501221001.2"><vh>myflaskapp declarations</vh></v>
-<v t="amd.20160501221001.3"><vh>index</vh></v>
-<v t="amd.20160501221001.4"><vh>user</vh></v>
-<v t="amd.20160501221001.5"><vh>red</vh></v>
-<v t="amd.20160501221001.6"><vh>guessform</vh></v>
-<v t="amd.20160501221001.7"><vh>docheck</vh></v>
-<v t="amd.20160501221001.8"><vh>option</vh></v>
-<v t="amd.20160501221001.9"><vh>optionaction</vh></v>
-<v t="amd.20160501221001.10"><vh>fileaxupload</vh></v>
-<v t="amd.20160501221001.11"><vh>fileuploadform</vh></v>
-<v t="amd.20160501221001.12"><vh>imageaxupload</vh></v>
-<v t="amd.20160501221001.13"><vh>imagefileuploadform</vh></v>
-<v t="amd.20160501221001.14"><vh>download</vh></v>
-<v t="amd.20160501221001.15"><vh>send_images</vh></v>
-<v t="amd.20160501221001.16"><vh>send_static</vh></v>
-<v t="amd.20160501230850.1"><vh>send_blog</vh></v>
-<v t="amd.20160501225844.1"><vh>send_file</vh></v>
-</v>
+<v t="leo.20160625171829.1"><vh>40328242-wsgi 繪圖程式</vh></v>
+<v t="leo.20160625171842.1" a="E"><vh>@path ./../../../</vh>
+<v t="leo.20160625171842.2" a="E"><vh>@clean myflaskapp.py</vh>
+<v t="leo.20160625171842.3"><vh>myflaskapp declarations</vh></v>
+<v t="leo.20160625171842.4"><vh>index</vh></v>
+<v t="leo.20160625171842.5"><vh>user</vh></v>
+<v t="leo.20160625171842.6"><vh>red</vh></v>
+<v t="leo.20160625171842.7"><vh>guessform</vh></v>
+<v t="leo.20160625171842.8"><vh>docheck</vh></v>
+<v t="leo.20160625171842.9"><vh>option</vh></v>
+<v t="leo.20160625171842.10"><vh>optionaction</vh></v>
+<v t="leo.20160625171842.11"><vh>fileaxupload</vh></v>
+<v t="leo.20160625171842.12"><vh>fileuploadform</vh></v>
+<v t="leo.20160625171842.13"><vh>imageaxupload</vh></v>
+<v t="leo.20160625171842.14"><vh>imagefileuploadform</vh></v>
+<v t="leo.20160625171842.15"><vh>download</vh></v>
+<v t="leo.20160625171842.16"><vh>send_images</vh></v>
+<v t="leo.20160625171842.17"><vh>send_static</vh></v>
+<v t="leo.20160625171842.18"><vh>send_blog</vh></v>
+<v t="leo.20160625171842.19"><vh>send_file</vh></v>
 </v>
 </v>
 </vnodes>
 <tnodes>
-<t tx="amd.20160501215436.2"></t>
-<t tx="amd.20160501215545.1"></t>
-<t tx="amd.20160501215558.1"></t>
-<t tx="amd.20160501215634.1"></t>
-<t tx="amd.20160501215942.1"></t>
-<t tx="amd.20160501220009.1"></t>
-<t tx="amd.20160501220009.2">@language python
+<t tx="leo.20160625171823.1"></t>
+<t tx="leo.20160625171823.2"></t>
+<t tx="leo.20160625171823.3"></t>
+<t tx="leo.20160625171823.4"></t>
+<t tx="leo.20160625171823.5">@language python
 import os
 #os.system("pelican content -o ./ -s publishconf.py -t theme/pelican-bootstrap3")
 os.system("pelican content -o blog -s publishconf.py")
 g.es("admin pelican 執行完畢")
 
+
 </t>
-<t tx="amd.20160501220029.1"></t>
-<t tx="amd.20160501220029.2">@language python
+<t tx="leo.20160625171823.6"></t>
+<t tx="leo.20160625171823.7">@language python
 import os
 #os.system("pelican content -o output -s local_publishconf.py -t theme/pelican-bootstrap3")
 os.system("pelican content -o blog -s local_publishconf.py")
@@ -73,259 +72,10 @@ g.es("admin pelican 近端執行完畢")
 
 
 </t>
-<t tx="amd.20160501221001.1">@language python
-@tabwidth -4
-@others
-if __name__ == "__main__":
-    app.run()
-
-</t>
-<t tx="amd.20160501221001.10">@app.route('/fileaxupload', methods=['POST'])
-# ajax jquery chunked file upload for flask
-def fileaxupload():
-    '''
-    if not session.get('logged_in'):
-        #abort(401)
-        return redirect(url_for('login'))
-    '''
-    # need to consider if the uploaded filename already existed.
-    # right now all existed files will be replaced with the new files
-    filename = request.args.get("ax-file-name")
-    flag = request.args.get("start")
-    if flag == "0":
-        file = open(data_dir+"downloads/"+filename, "wb")
-    else:
-        file = open(data_dir+"downloads/"+filename, "ab")
-    file.write(request.stream.read())
-    file.close()
-    return "files uploaded!"
-
-    
-    
-</t>
-<t tx="amd.20160501221001.11">@app.route('/fileuploadform')
-def fileuploadform():
-    '''
-    if not session.get('logged_in'):
-        #abort(401)
-        return redirect(url_for('login'))
-    '''
-    return "&lt;h1&gt;file upload&lt;/h1&gt;"+'''
-  &lt;script src="/static/jquery.js" type="text/javascript"&gt;&lt;/script&gt;
-  &lt;script src="/static/axuploader.js" type="text/javascript"&gt;&lt;/script&gt;
-  &lt;script&gt;
-  $(document).ready(function(){
-  $('.prova').axuploader({url:'fileaxupload', allowExt:['jpg','png','gif','7z','pdf','zip','flv','stl','swf'],
-  finish:function(x,files)
-{
-    alert('All files have been uploaded: '+files);
-},
-  enable:true,
-  remotePath:function(){
-  return 'downloads/';
-  }
-  });
-  });
-  &lt;/script&gt;
-  &lt;div class="prova"&gt;&lt;/div&gt;
-  &lt;input type="button" onclick="$('.prova').axuploader('disable')" value="asd" /&gt;
-  &lt;input type="button" onclick="$('.prova').axuploader('enable')" value="ok" /&gt;
-  &lt;/section&gt;&lt;/body&gt;&lt;/html&gt;
-  '''
-</t>
-<t tx="amd.20160501221001.12">@app.route('/imageaxupload', methods=['POST'])
-# ajax jquery chunked file upload for flask
-def imageaxupload():
-    '''
-    if not session.get('logged_in'):
-        #abort(401)
-        return redirect(url_for('login'))
-    '''
-    # need to consider if the uploaded filename already existed.
-    # right now all existed files will be replaced with the new files
-    filename = request.args.get("ax-file-name")
-    flag = request.args.get("start")
-    if flag == "0":
-        file = open(data_dir+"images/"+filename, "wb")
-    else:
-        file = open(data_dir+"images/"+filename, "ab")
-    file.write(request.stream.read())
-    file.close()
-    return "image file uploaded!"
-
-    
-    
-</t>
-<t tx="amd.20160501221001.13">@app.route('/imageuploadform')
-def imageuploadform():
-    '''
-    if not session.get('logged_in'):
-        #abort(401)
-        return redirect(url_for('login'))
-    '''
-    return "&lt;h1&gt;file upload&lt;/h1&gt;"+'''
-  &lt;script src="/static/jquery.js" type="text/javascript"&gt;&lt;/script&gt;
-  &lt;script src="/static/axuploader.js" type="text/javascript"&gt;&lt;/script&gt;
-  &lt;script&gt;
-  $(document).ready(function(){
-  $('.prova').axuploader({url:'imageaxupload', allowExt:['jpg','png','gif','7z','pdf','zip','flv','stl','swf'],
-  finish:function(x,files)
-{
-    alert('All files have been uploaded: '+files);
-},
-  enable:true,
-  remotePath:function(){
-  return 'images/';
-  }
-  });
-  });
-  &lt;/script&gt;
-  &lt;div class="prova"&gt;&lt;/div&gt;
-  &lt;input type="button" onclick="$('.prova').axuploader('disable')" value="asd" /&gt;
-  &lt;input type="button" onclick="$('.prova').axuploader('enable')" value="ok" /&gt;
-  &lt;/section&gt;&lt;/body&gt;&lt;/html&gt;
-  '''
-</t>
-<t tx="amd.20160501221001.14">@app.route('/downloads/&lt;path:filename&gt;', methods=['GET', 'POST'])
-def download(filename):
-    #return send_from_directory(download_dir, filename=filename, as_attachment=True)
-    return send_from_directory(download_dir, filename=filename)
-    
-
-
-</t>
-<t tx="amd.20160501221001.15"># setup static directory
-@app.route('/images/&lt;path:path&gt;')
-def send_images(path):
-    return send_from_directory(data_dir+"/images/", path)
-</t>
-<t tx="amd.20160501221001.16"># setup static directory
-@app.route('/static/')
-def send_static():
-  return app.send_static_file('index.html')
-
-</t>
-<t tx="amd.20160501221001.2"># coding: utf-8
-from flask import Flask, send_from_directory, request, redirect, render_template, session, make_response
-import random
-import math
-import os
-# init.py 為自行建立的起始物件
-import init
-
-# 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
-_curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
-# 設定在雲端與近端的資料儲存目錄
-if 'OPENSHIFT_REPO_DIR' in os.environ.keys():
-    # 表示程式在雲端執行
-    data_dir = os.environ['OPENSHIFT_DATA_DIR']
-    static_dir = os.environ['OPENSHIFT_REPO_DIR']+"/static"
-    download_dir = os.environ['OPENSHIFT_DATA_DIR']+"/downloads"
-else:
-    # 表示程式在近端執行
-    data_dir = _curdir + "/local_data/"
-    static_dir = _curdir + "/static"
-    download_dir = _curdir + "/local_data/downloads/"
-
-# 利用 init.py 啟動, 建立所需的相關檔案
-initobj = init.Init()
-
-# 必須先將 download_dir 設為 static_folder, 然後才可以用於 download 方法中的 app.static_folder 的呼叫
-app = Flask(__name__)
-#app.config['download_dir'] = download_dir
-
-# 使用 session 必須要設定 secret_key
-# In order to use sessions you have to set a secret key
-# set the secret key.  keep this really secret:
-app.secret_key = 'A0Zr9@8j/3yX R~XHH!jmN]LWX/,?R@T'
-
-
-
-
-
-
-
-</t>
-<t tx="amd.20160501221001.3">@app.route("/")
-def index():
-    #這是猜數字遊戲的起始表單, 主要在產生答案, 並且將 count 歸零
-    # 將標準答案存入 answer session 對應區
-    theanswer = random.randint(1, 100)
-    thecount = 0
-    # 將答案與計算次數變數存進 session 對應變數
-    session['answer'] = theanswer
-    session['count'] = thecount
-
-    return render_template("index.html", answer=theanswer, count=thecount)
-</t>
-<t tx="amd.20160501221001.4">@app.route('/user/&lt;name&gt;')
-def user(name):
-    return render_template("user.html", name=name)
-</t>
-<t tx="amd.20160501221001.5">@app.route('/red')
-def red():
-    # 重新導向 google
-    return redirect("http://www.google.com")
-</t>
-<t tx="amd.20160501221001.6">@app.route('/guessform')
-def guessform():
-    session["count"] += 1
-    guess = session.get("guess")
-    theanswer = session.get("answer")
-    count = session.get("count")
-    return render_template("guessform.html", guess=guess, answer=theanswer, count=count)
-</t>
-<t tx="amd.20160501221001.7">@app.route('/docheck', methods=['POST'])
-def docheck():
-    # session[] 存資料
-    # session.get() 取 session 資料
-    # 利用 request.form[] 取得表單欄位資料, 然後送到 template
-    guess = request.form["guess"]
-    session["guess"] = guess
-    # 假如使用者直接執行 doCheck, 則設法轉回根方法
-    if guess is None:
-        redirect("/")
-    # 從 session 取出 answer 對應資料, 且處理直接執行 docheck 時無法取 session 值情況
-    try:
-        theanswer = int(session.get('answer'))
-    except:
-        redirect("/")
-    # 經由表單所取得的 guess 資料型別為 string
-    try:
-        theguess = int(guess)
-    except:
-        return redirect("/guessform")
-    # 每執行 doCheck 一次,次數增量一次
-    session["count"] += 1
-    count = session.get("count")
-    # 答案與所猜數字進行比對
-    if theanswer &lt; theguess:
-        return render_template("toobig.html", guess=guess, answer=theanswer, count=count)
-    elif theanswer &gt; theguess:
-        return render_template("toosmall.html", guess=guess, answer=theanswer, count=count)
-    else:
-        # 已經猜對, 從 session 取出累計猜測次數
-        thecount = session.get('count')
-        return "猜了 "+str(thecount)+" 次, 終於猜對了, 正確答案為 "+str(theanswer)+": &lt;a href='/'&gt;再猜&lt;/a&gt;"
-    return render_template("docheck.html", guess=guess)
- 
-</t>
-<t tx="amd.20160501221001.8">@app.route('/option', methods=["GET", "POST"])
-def option():
-    # 各組選出組長的方式, 若採遞增, 則各組內學號最小者為組長
-    option_list1 = ["遞增", "遞減"]
-    # 各組組長間的排序定組序, 若採遞增, 則學號最小的組長為第1組
-    option_list2 = ["遞增", "遞減"]
-    # 電腦教室共有 9 排電腦
-    column = 9
-    # 加上班級選擇
-    option_list3 = ["2a", "2b"]
-    # 根據班級的總人數, 以 9 去除, 算出需要排幾列才能夠容納的下, 而且若列數超過 7
-    # 表示這些學員必須與其他同組學員共用電腦
-
-    return render_template('option.html', option_list1=option_list1, option_list2=option_list2, option_list3=option_list3, column=column)
-</t>
-<t tx="amd.20160501221001.9">@app.route('/optionaction', methods=['POST'])
+<t tx="leo.20160625171823.8"></t>
+<t tx="leo.20160625171829.1"></t>
+<t tx="leo.20160625171842.1"></t>
+<t tx="leo.20160625171842.10">@app.route('/optionaction', methods=['POST'])
 def optionaction():
     # 最後傳回的字串為 out_string
     out_string = ""
@@ -460,18 +210,323 @@ def optionaction():
     
 
 </t>
-<t tx="amd.20160501221015.1"></t>
-<t tx="amd.20160501225844.1"># setup static directory
+<t tx="leo.20160625171842.11">@app.route('/fileaxupload', methods=['POST'])
+# ajax jquery chunked file upload for flask
+def fileaxupload():
+    '''
+    if not session.get('logged_in'):
+        #abort(401)
+        return redirect(url_for('login'))
+    '''
+    # need to consider if the uploaded filename already existed.
+    # right now all existed files will be replaced with the new files
+    filename = request.args.get("ax-file-name")
+    flag = request.args.get("start")
+    if flag == "0":
+        file = open(data_dir+"downloads/"+filename, "wb")
+    else:
+        file = open(data_dir+"downloads/"+filename, "ab")
+    file.write(request.stream.read())
+    file.close()
+    return "files uploaded!"
+
+    
+    
+</t>
+<t tx="leo.20160625171842.12">@app.route('/fileuploadform')
+def fileuploadform():
+    '''
+    if not session.get('logged_in'):
+        #abort(401)
+        return redirect(url_for('login'))
+    '''
+    return "&lt;h1&gt;file upload&lt;/h1&gt;"+'''
+  &lt;script src="/static/jquery.js" type="text/javascript"&gt;&lt;/script&gt;
+  &lt;script src="/static/axuploader.js" type="text/javascript"&gt;&lt;/script&gt;
+  &lt;script&gt;
+  $(document).ready(function(){
+  $('.prova').axuploader({url:'fileaxupload', allowExt:['jpg','png','gif','7z','pdf','zip','flv','stl','swf'],
+  finish:function(x,files)
+{
+    alert('All files have been uploaded: '+files);
+},
+  enable:true,
+  remotePath:function(){
+  return 'downloads/';
+  }
+  });
+  });
+  &lt;/script&gt;
+  &lt;div class="prova"&gt;&lt;/div&gt;
+  &lt;input type="button" onclick="$('.prova').axuploader('disable')" value="asd" /&gt;
+  &lt;input type="button" onclick="$('.prova').axuploader('enable')" value="ok" /&gt;
+  &lt;/section&gt;&lt;/body&gt;&lt;/html&gt;
+  '''
+</t>
+<t tx="leo.20160625171842.13">@app.route('/imageaxupload', methods=['POST'])
+# ajax jquery chunked file upload for flask
+def imageaxupload():
+    '''
+    if not session.get('logged_in'):
+        #abort(401)
+        return redirect(url_for('login'))
+    '''
+    # need to consider if the uploaded filename already existed.
+    # right now all existed files will be replaced with the new files
+    filename = request.args.get("ax-file-name")
+    flag = request.args.get("start")
+    if flag == "0":
+        file = open(data_dir+"images/"+filename, "wb")
+    else:
+        file = open(data_dir+"images/"+filename, "ab")
+    file.write(request.stream.read())
+    file.close()
+    return "image file uploaded!"
+
+    
+    
+</t>
+<t tx="leo.20160625171842.14">@app.route('/imageuploadform')
+def imageuploadform():
+    '''
+    if not session.get('logged_in'):
+        #abort(401)
+        return redirect(url_for('login'))
+    '''
+    return "&lt;h1&gt;file upload&lt;/h1&gt;"+'''
+  &lt;script src="/static/jquery.js" type="text/javascript"&gt;&lt;/script&gt;
+  &lt;script src="/static/axuploader.js" type="text/javascript"&gt;&lt;/script&gt;
+  &lt;script&gt;
+  $(document).ready(function(){
+  $('.prova').axuploader({url:'imageaxupload', allowExt:['jpg','png','gif','7z','pdf','zip','flv','stl','swf'],
+  finish:function(x,files)
+{
+    alert('All files have been uploaded: '+files);
+},
+  enable:true,
+  remotePath:function(){
+  return 'images/';
+  }
+  });
+  });
+  &lt;/script&gt;
+  &lt;div class="prova"&gt;&lt;/div&gt;
+  &lt;input type="button" onclick="$('.prova').axuploader('disable')" value="asd" /&gt;
+  &lt;input type="button" onclick="$('.prova').axuploader('enable')" value="ok" /&gt;
+  &lt;/section&gt;&lt;/body&gt;&lt;/html&gt;
+  '''
+</t>
+<t tx="leo.20160625171842.15">@app.route('/downloads/&lt;path:filename&gt;', methods=['GET', 'POST'])
+def download(filename):
+    #return send_from_directory(download_dir, filename=filename, as_attachment=True)
+    return send_from_directory(download_dir, filename=filename)
+    
+
+
+</t>
+<t tx="leo.20160625171842.16"># setup static directory
+@app.route('/images/&lt;path:path&gt;')
+def send_images(path):
+    return send_from_directory(data_dir+"/images/", path)
+</t>
+<t tx="leo.20160625171842.17"># setup static directory
+@app.route('/static/')
+def send_static():
+  return app.send_static_file('index.html')
+
+</t>
+<t tx="leo.20160625171842.18"># setup static directory
+@app.route('/static/blog/')
+def send_blog():
+  return app.send_static_file('blog/index.html')
+
+</t>
+<t tx="leo.20160625171842.19"># setup static directory
 @app.route('/static/&lt;path:path&gt;')
 def send_file(path):
   return app.send_static_file(static_dir+path)
 
 </t>
-<t tx="amd.20160501230850.1"># setup static directory
-@app.route('/static/blog/')
-def send_blog():
-  return app.send_static_file('blog/index.html')
+<t tx="leo.20160625171842.2">@language python
+@tabwidth -4
+@others
+if __name__ == "__main__":
+    app.run()
+    
 
+app.register_blueprint(users.b.g9.bg9_40323250.bg9_40323250)
+app.register_blueprint(users.b.g9.bg9_40323214.bg9_40323214)
+app.register_blueprint(users.b.g9.bg9_40323214_2.bg9_40323214_2)
+app.register_blueprint(users.b.g9.bg9_40323250_2.bg9_40323250_2)
+app.register_blueprint(users.b.g9.bg9_40323233_1.bg9_40323233_1)
+app.register_blueprint(users.b.g9.bg9_40323218_1.bg9_40323218_1)
+app.register_blueprint(users.b.g9.bg9_40323218_2.bg9_40323218_2)
+app.register_blueprint(users.b.g9.bg9_40323218_3.bg9_40323218_3)
+
+app.register_blueprint(users.b.g9.bg9_40323231_1.bg9_40323231_1)
+app.register_blueprint(users.b.g9.bg9_40323231_2.bg9_40323231_2)
+app.register_blueprint(users.b.g9.bg9_40323231_3.bg9_40323231_3)
+app.register_blueprint(users.b.g9.bg9_40323231_4.bg9_40323231_4)
+
+app.register_blueprint(users.b.g9.bg9_40323230.bg9_40323230)
+app.register_blueprint(users.b.g9.bg9_40323230_2.bg9_40323230_2)
+
+
+app.register_blueprint(users.b.g9.bg9_40323233_1.bg9_40323233_1)
+app.register_blueprint(users.b.g9.bg9_40323233_2.bg9_40323233_2)
+
+
+#app.register_blueprint(users.b.g9.bg9_40323250_3.bg9_40323250_3)
+
+
+app.register_blueprint(users.b.g10.bg10_40328242.bg10_40328242)
+</t>
+<t tx="leo.20160625171842.3"># coding: utf-8
+from flask import Flask, send_from_directory, request, redirect, render_template, session, make_response
+import random
+import math
+import os
+# init.py 為自行建立的起始物件
+import init
+
+
+import users.b.g9.bg9_40323218_1
+import users.b.g9.bg9_40323218_2
+import users.b.g9.bg9_40323218_3
+import users.b.g9.bg9_40323231_1
+import users.b.g9.bg9_40323231_2
+import users.b.g9.bg9_40323231_3
+import users.b.g9.bg9_40323231_4
+import users.b.g9.bg9_40323230_2
+import users.b.g9.bg9_40323230
+import users.b.g9.bg9_40323250
+import users.b.g9.bg9_40323214
+import users.b.g9.bg9_40323250_2
+import users.b.g9.bg9_40323214_2
+import users.b.g9.bg9_40323233_1
+import users.b.g9.bg9_40323233_1
+import users.b.g9.bg9_40323233_2
+import users.b.g10.bg10_40328242
+
+#import users.b.g9.bg9_40323250_3
+
+
+# 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
+_curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
+# 設定在雲端與近端的資料儲存目錄
+if 'OPENSHIFT_REPO_DIR' in os.environ.keys():
+    # 表示程式在雲端執行
+    data_dir = os.environ['OPENSHIFT_DATA_DIR']
+    static_dir = os.environ['OPENSHIFT_REPO_DIR']+"/static"
+    download_dir = os.environ['OPENSHIFT_DATA_DIR']+"/downloads"
+else:
+    # 表示程式在近端執行
+    data_dir = _curdir + "/local_data/"
+    static_dir = _curdir + "/static"
+    download_dir = _curdir + "/local_data/downloads/"
+
+# 利用 init.py 啟動, 建立所需的相關檔案
+initobj = init.Init()
+
+# 必須先將 download_dir 設為 static_folder, 然後才可以用於 download 方法中的 app.static_folder 的呼叫
+app = Flask(__name__)
+#app.config['download_dir'] = download_dir
+
+# 使用 session 必須要設定 secret_key
+# In order to use sessions you have to set a secret key
+# set the secret key.  keep this really secret:
+app.secret_key = 'A0Zr9@8j/3yX R~XHH!jmN]LWX/,?R@T'
+
+
+
+
+
+
+
+</t>
+<t tx="leo.20160625171842.4">@app.route("/")
+def index():
+    #這是猜數字遊戲的起始表單, 主要在產生答案, 並且將 count 歸零
+    # 將標準答案存入 answer session 對應區
+
+    theanswer = random.randint(1, 100)
+    thecount = 0
+    # 將答案與計算次數變數存進 session 對應變數
+    session['answer'] = theanswer
+    session['count'] = thecount
+
+
+    return render_template("index.html", answer=theanswer, count=thecount)
+
+
+  
+</t>
+<t tx="leo.20160625171842.5">@app.route('/user/&lt;name&gt;')
+def user(name):
+    return render_template("user.html", name=name)
+</t>
+<t tx="leo.20160625171842.6">@app.route('/red')
+def red():
+    # 重新導向 google
+    return redirect("http://www.google.com")
+</t>
+<t tx="leo.20160625171842.7">@app.route('/guessform')
+def guessform():
+    session["count"] += 1
+    guess = session.get("guess")
+    theanswer = session.get("answer")
+    count = session.get("count")
+    return render_template("guessform.html", guess=guess, answer=theanswer, count=count)
+</t>
+<t tx="leo.20160625171842.8">@app.route('/docheck', methods=['POST'])
+def docheck():
+    # session[] 存資料
+    # session.get() 取 session 資料
+    # 利用 request.form[] 取得表單欄位資料, 然後送到 template
+    guess = request.form["guess"]
+    session["guess"] = guess
+    # 假如使用者直接執行 doCheck, 則設法轉回根方法
+    if guess is None:
+        redirect("/")
+    # 從 session 取出 answer 對應資料, 且處理直接執行 docheck 時無法取 session 值情況
+    try:
+        theanswer = int(session.get('answer'))
+    except:
+        redirect("/")
+    # 經由表單所取得的 guess 資料型別為 string
+    try:
+        theguess = int(guess)
+    except:
+        return redirect("/guessform")
+    # 每執行 doCheck 一次,次數增量一次
+    session["count"] += 1
+    count = session.get("count")
+    # 答案與所猜數字進行比對
+    if theanswer &lt; theguess:
+        return render_template("toobig.html", guess=guess, answer=theanswer, count=count)
+    elif theanswer &gt; theguess:
+        return render_template("toosmall.html", guess=guess, answer=theanswer, count=count)
+    else:
+        # 已經猜對, 從 session 取出累計猜測次數
+        thecount = session.get('count')
+        return "猜了 "+str(thecount)+" 次, 終於猜對了, 正確答案為 "+str(theanswer)+": &lt;a href='/'&gt;再猜&lt;/a&gt;"
+    return render_template("docheck.html", guess=guess)
+ 
+</t>
+<t tx="leo.20160625171842.9">@app.route('/option', methods=["GET", "POST"])
+def option():
+    # 各組選出組長的方式, 若採遞增, 則各組內學號最小者為組長
+    option_list1 = ["遞增", "遞減"]
+    # 各組組長間的排序定組序, 若採遞增, 則學號最小的組長為第1組
+    option_list2 = ["遞增", "遞減"]
+    # 電腦教室共有 9 排電腦
+    column = 9
+    # 加上班級選擇
+    option_list3 = ["2a", "2b"]
+    # 根據班級的總人數, 以 9 去除, 算出需要排幾列才能夠容納的下, 而且若列數超過 7
+    # 表示這些學員必須與其他同組學員共用電腦
+
+    return render_template('option.html', option_list1=option_list1, option_list2=option_list2, option_list3=option_list3, column=column)
 </t>
 </tnodes>
 </leo_file>
