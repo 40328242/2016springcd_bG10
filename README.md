@@ -61,16 +61,46 @@ OnShape :
 
 組員 : 40328245
 
-期末報告 心得 :
+組員 : 
+40328245
 
-自行車傳動 2D 鏈條繪圖 (二) :
+期末報告 心得 : 
+http://40328245-40328245.rhcloud.com/static/blog/40328245-qi-mo-xin-de.html
 
-自行車傳動 2D 鏈條繪圖 (二) 心得 :
+自行車傳動 2D 鏈條繪圖 (二) : 
+http://40328245-40328245.rhcloud.com/bg10_40328245/eighteenthirty.html
 
-網際 2D 正齒輪傳動囓合繪圖 :
+自行車傳動 2D 鏈條繪圖 (二) 心得 : 
+http://40328245-40328245.rhcloud.com/static/blog/40328245-zi-xing-che-chuan-dong-2d-lian-tiao-hui-tu.html
+
+網際 2D 正齒輪傳動囓合繪圖 : 
+http://40328245-40328245.rhcloud.com/bg10_40328245/threegears.html
 
 網際 2D 正齒輪傳動囓合繪圖 心得 :
+http://40328245-40328245.rhcloud.com/static/blog/40328245-wang-ji-2d-zheng-chi-lun-chuan-dong-nie-he-hui-tu.html
 
-網際 3D 正齒輪傳動模擬 (一) onshape : https://cad.onshape.com/documents/0103bfe3fc4acdeb4162e65c/w/ce85345ba3833c24f4cb247f/e/d59ca74c39734145e77c07fa
+網際 3D 正齒輪傳動模擬 (一) onshape : 
+https://cad.onshape.com/documents/0103bfe3fc4acdeb4162e65c/w/ce85345ba3833c24f4cb247f/e/d59ca74c39734145e77c07fa.html
 
-網際 3D 正齒輪傳動模擬 (一) 心得 :
+網際 3D 正齒輪傳動模擬 (一) 心得 : 
+http://40328245-40328245.rhcloud.com/static/blog/40328245-wang-ji-3d-zheng-chi-lun-chuan-dong-mo-ni-yi.html
+
+2016springcd_bG10 倉儲 : 
+https://github.com/40328242/2016springcd_bG10.html
+
+Pelican
+
+自製2d繪圖 : 
+https://40328242.github.io/2016springcd_bG10/static/blog/40328245-2dhui-tu.html
+
+網際 3D 正齒輪傳動模擬 (二) : 
+https://40328242.github.io/2016springcd_bG10/static/blog/40328245-wang-ji-3d-zheng-chi-lun-chuan-dong-mo-ni-er.html
+
+期末總結 : 
+https://40328242.github.io/2016springcd_bG10/static/blog/40328245-qi-mo-zong-jie.html
+
+自製2d繪圖 : 
+http://2016springcd-40328242.rhcloud.com/bg10_40328242/hw_link.html
+
+OnShape : 
+https://cad.onshape.com/documents/2208c22ac5bb85c8b06fc105/w/e0eaa45b0e1245895691deb0/e/3fa2988f81a155daade299f6.html
