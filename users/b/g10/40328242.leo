@@ -27,7 +27,12 @@
 </v>
 </v>
 </v>
-<v t="leo.20160625171829.1"><vh>40328242-wsgi 繪圖程式</vh></v>
+<v t="leo.20160625171829.1" a="E"><vh>40328242-wsgi 繪圖程式</vh>
+<v t="leo.20160625211137.1" a="E"><vh>@clean bg10_40328242.py</vh>
+<v t="leo.20160625211137.2"><vh>bg10_40328242 declarations</vh></v>
+<v t="leo.20160625211137.14"><vh>hw_link</vh></v>
+</v>
+</v>
 <v t="leo.20160625171842.1" a="E"><vh>@path ./../../../</vh>
 <v t="leo.20160625171842.2" a="E"><vh>@clean myflaskapp.py</vh>
 <v t="leo.20160625171842.3"><vh>myflaskapp declarations</vh></v>
@@ -527,6 +532,229 @@ def option():
     # 表示這些學員必須與其他同組學員共用電腦
 
     return render_template('option.html', option_list1=option_list1, option_list2=option_list2, option_list3=option_list3, column=column)
+</t>
+<t tx="leo.20160625211137.1">@language python
+@tabwidth -4
+@others
+</t>
+<t tx="leo.20160625211137.14">@bg10_40328242.route('/hw_link')
+def hw_link():
+    outstring = '''
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;title&gt;網際 2D 繪圖&lt;/title&gt;
+    &lt;!-- IE 9: display inline SVG --&gt;
+    &lt;meta http-equiv="X-UA-Compatible" content="IE=9"&gt;
+&lt;script type="text/javascript" src="http://brython.info/src/brython_dist.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript" src="http://cptocadp-2015fallhw.rhcloud.com/static/Cango-8v03.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript" src="http://cptocadp-2015fallhw.rhcloud.com/static/Cango2D-6v13.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript" src="http://cptocadp-2015fallhw.rhcloud.com/static/CangoAxes-1v33.js"&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+&lt;canvas id="plotarea" width="800" height="800"&gt;&lt;/canvas&gt;
+&lt;script type="text/python"&gt;
+from javascript import JSConstructor
+from browser import window
+import math
+cango = JSConstructor(window.Cango)
+cobj = JSConstructor(window.Cobj)
+shapedefs = window.shapeDefs
+obj2d = JSConstructor(window.Obj2D)
+cgo = cango("plotarea")
+cgo.setWorldCoords(-250, -250, 500, 500) 
+
+        
+#cgo.drawText("使用 Cango 繪圖程式庫!", 0, 0, {"fontSize":60, "fontWeight": 1200, "lorg":5 })
+deg = math.pi/180  
+def O(x, y, rx, ry, rot, color, border, linewidth):
+    # 旋轉必須要針對相對中心 rot not working yet
+    chamber = "M5.000 8.200 L5.100,27.200 L12.900,31.800 L34.700,31.400 L44.100,29.600 L34.300,27.600 L14.500,27.800 L7.700,24.200 L7.700,13.800 L16.300,9.600 L35.100,9.400 L45.700,7.400 L34.500,5.000 L13.100,5.400 L5.000,8.200"
+    cgoChamber = window.svgToCgoSVG(chamber)
+    cmbr = cobj(cgoChamber, "SHAPE", {
+            "fillColor": color,
+            "border": border,
+            "strokeColor": "tan",
+            "lineWidth": linewidth })
+            
+            
+            
+    cmbr.translate(0, 20)    
+            
+ 
+   
+    
+    
+    # hole 為原點位置
+    #hole = cobj(shapedefs.circle(4), "PATH") 
+    #cmbr.appendPath(hole) 
+
+  
+    # 放大 1 倍
+    cgo.render(cmbr, x, y, 3, rot)
+    
+O(0, 0, 0, 0, 0, "red", True, 4)
+&lt;/script&gt;
+
+
+'''
+    return outstring
+</t>
+<t tx="leo.20160625211137.2">from flask import Blueprint, request
+
+
+bg10_40328242 = Blueprint('bg10_40328242', __name__, url_prefix='/bg10_40328242', template_folder='templates')
+ 
+head_str = '''
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;title&gt;網際 2D 繪圖&lt;/title&gt;
+    &lt;!-- IE 9: display inline SVG --&gt;
+    &lt;meta http-equiv="X-UA-Compatible" content="IE=9"&gt;
+&lt;script type="text/javascript" src="http://brython.info/src/brython_dist.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript" src="http://cptocadp-2015fallhw.rhcloud.com/static/Cango-8v03.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript" src="http://cptocadp-2015fallhw.rhcloud.com/static/Cango2D-6v13.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript" src="http://cptocadp-2015fallhw.rhcloud.com/static/CangoAxes-1v33.js"&gt;&lt;/script&gt;
+ 
+&lt;/head&gt;
+&lt;body&gt;
+ 
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+ 
+&lt;canvas id="plotarea" width="800" height="800"&gt;&lt;/canvas&gt;
+'''
+ 
+tail_str = '''
+&lt;/script&gt;
+
+
+&lt;script type='text/javascript'&gt;
+var onWebChat={ar:[], set: function(a,b){if (typeof onWebChat_==='undefined'){this.ar.
+push([a,b]);}else{onWebChat_.set(a,b);}},get:function(a){return(onWebChat_.get(a));},w
+:(function(){ var ga=document.createElement('script'); ga.type = 'text/javascript';ga.
+async=1;ga.src='//www.onwebchat.com/clientchat/795d781612868f02aa4bb0552c0655a5/1/1';
+var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})()}
+&lt;/script&gt;
+
+
+&lt;/body&gt;
+&lt;/html&gt;
+'''
+ 
+chain_str = '''
+&lt;script type="text/python"&gt;
+from javascript import JSConstructor
+from browser import alert
+from browser import window
+import math
+ 
+cango = JSConstructor(window.Cango)
+cobj = JSConstructor(window.Cobj)
+shapedefs = window.shapeDefs
+obj2d = JSConstructor(window.Obj2D)
+cgo = cango("plotarea")
+ 
+cgo.setWorldCoords(-250, -250, 500, 500) 
+ 
+# 畫軸線
+cgo.drawAxes(0, 240, 0, 240, {
+    "strokeColor":"#aaaaaa",
+    "fillColor": "#aaaaaa",
+    "xTickInterval": 20,
+    "xLabelInterval": 20,
+    "yTickInterval": 20,
+    "yLabelInterval": 20})
+ 
+deg = math.pi/180  
+ 
+# 將繪製鏈條輪廓的內容寫成 class 物件
+class chain():
+    # 輪廓的外型設為 class variable
+    chamber = "M -6.8397, -1.4894 \
+            A 7, 7, 0, 1, 0, 6.8397, -1.4894 \
+            A 40, 40, 0, 0, 1, 6.8397, -18.511 \
+            A 7, 7, 0, 1, 0, -6.8397, -18.511 \
+            A 40, 40, 0, 0, 1, -6.8397, -1.4894 z"
+    #chamber = "M 0, 0 L 0, -20 z"
+    cgoChamber = window.svgToCgoSVG(chamber)
+ 
+    def __init__(self, fillcolor="green", border=True, strokecolor= "tan", linewidth=2, scale=1):
+        self.fillcolor = fillcolor
+        self.border = border
+        self.strokecolor = strokecolor
+        self.linewidth = linewidth
+        self.scale = scale
+ 
+    # 利用鏈條起點與終點定義繪圖
+    def basic(self, x1, y1, x2, y2):
+        self.x1 = x1
+        self.y1 = y1
+        self.x2 = x2
+        self.y2 = y2
+        # 注意, cgo.Chamber 為成員變數
+        cmbr = cobj(self.cgoChamber, "SHAPE", {
+                "fillColor": self.fillcolor,
+                "border": self.border,
+                "strokeColor": self.strokecolor,
+                "lineWidth": self.linewidth })
+ 
+        # hole 為原點位置
+        hole = cobj(shapedefs.circle(4*self.scale), "PATH")
+        cmbr.appendPath(hole)
+ 
+        # 複製 cmbr, 然後命名為 basic1
+        basic1 = cmbr.dup()
+        # 因為鏈條的角度由原點向下垂直, 所以必須轉 90 度, 再考量 atan2 的轉角
+        basic1.rotate(math.atan2(y2-y1, x2-x1)/deg+90)
+ 
+        # 放大 scale 倍
+        cgo.render(basic1, x1, y1, self.scale, 0)
+ 
+    # 利用鏈條起點與旋轉角度定義繪圖, 使用內定的 color, border 與 linewidth 變數
+    def basic_rot(self, x1, y1, rot, v=False):
+        # 若 v 為 True 則為虛擬 chain, 不 render
+        self.x1 = x1
+        self.y1 = y1
+        self.rot = rot
+        self.v = v
+        # 注意, cgoChamber 為成員變數
+        cmbr = cobj(self.cgoChamber, "SHAPE", {
+                "fillColor": self.fillcolor,
+                "border": self.border,
+                "strokeColor": self.strokecolor,
+                "lineWidth": self.linewidth })
+ 
+        # hole0 為原點位置
+        hole = cobj(shapedefs.circle(4*self.scale), "PATH")
+        cmbr.appendPath(hole)
+        # 根據旋轉角度, 計算 x2 與 y2
+        x2 = x1 + 20*math.cos(rot*deg)*self.scale
+        y2 = y1 + 20*math.sin(rot*deg)*self.scale
+ 
+        # 複製 cmbr, 然後命名為 basic1
+        basic1 = cmbr.dup()
+        # 因為鏈條的角度由原點向下垂直, 所以必須轉 90 度, 再考量 atan2 的轉角
+        basic1.rotate(rot+90)
+ 
+        # 放大 scale 倍
+        if v == False:
+            cgo.render(basic1, x1, y1, self.scale, 0)
+ 
+        return x2, y2
+'''
+ 
 </t>
 </tnodes>
 </leo_file>
