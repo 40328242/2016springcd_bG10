@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW11 網頁 (虎尾科大MDE)</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/" rel="alternate"></link><link href="https://40328242.github.io/2016springcd_bG10/static/blog/feeds/bg10.atom.xml" rel="self"></link><id>https://40328242.github.io/2016springcd_bG10/static/blog/</id><updated>2016-06-25T18:17:54+08:00</updated><entry><title>40328242 w18-2報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40328242-w18-2bao-gao.html" rel="alternate"></link><updated>2016-06-25T18:17:54+08:00</updated><author><name>40328242</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40328242-w18-2bao-gao.html</id><summary type="html">&lt;p&gt;內容規畫 :&lt;br /&gt;
-
-&lt;h3&gt;onshape&lt;/h3&gt;
-&lt;img src="http://i.imgur.com/XN9jlNa.png"&gt;
-&lt;br/&gt;
-&lt;h2&gt;心得&lt;/h2&gt;
-&lt;h3&gt;老師所給的齒數讓我們必須去分析如何才能不干涉，而組裝的過程與之前的步驟相同，比較有困難的是如何調整轉動多少齒來解決干涉。&lt;/h3&gt;
-&lt;br/&gt;
-&lt;h2&gt;自評分數&lt;/h2&gt;
-&lt;h3&gt;70分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40328242"></category></entry><entry><title>40328242 w18-3報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40328242-w18-3bao-gao.html" rel="alternate"></link><updated>2016-06-25T18:17:54+08:00</updated><author><name>40328242</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40328242-w18-3bao-gao.html</id><summary type="html">&lt;p&gt;內容規畫 :
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW11 網頁 (虎尾科大MDE)</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/" rel="alternate"></link><link href="https://40328242.github.io/2016springcd_bG10/static/blog/feeds/bg10.atom.xml" rel="self"></link><id>https://40328242.github.io/2016springcd_bG10/static/blog/</id><updated>2016-06-25T18:47:22+08:00</updated><entry><title>40328242 w18-3報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40328242-w18-3bao-gao.html" rel="alternate"></link><updated>2016-06-25T18:47:22+08:00</updated><author><name>40328242</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40328242-w18-3bao-gao.html</id><summary type="html">&lt;p&gt;內容規畫 :
 
 &lt;h3&gt;期末總結&lt;/h3&gt;
 &lt;br/&gt;
@@ -18,7 +9,7 @@
 &lt;h2&gt;自評分數&lt;/h2&gt;
 &lt;h3&gt;70分&lt;/h3&gt;
 &lt;br/&gt;
-&lt;br/&gt;
+&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
 &lt;br/&gt;
 &lt;h3&gt;onshape&lt;/h3&gt;
 &lt;img src="http://i.imgur.com/XN9jlNa.png"&gt;
@@ -26,11 +17,15 @@
 &lt;h2&gt;心得&lt;/h2&gt;
 &lt;h3&gt;老師所給的齒數讓我們必須去分析如何才能不干涉，而組裝的過程與之前的步驟相同，比較有困難的是如何調整轉動多少齒來解決干涉。&lt;/h3&gt;
 &lt;br/&gt;
+&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
+&lt;br/&gt;
 &lt;h3&gt;自製2d繪圖&lt;/h3&gt;
 &lt;img src=""&gt;
 &lt;br/&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
 &lt;h3&gt;&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
 &lt;br/&gt;
 &lt;h3&gt;網際 3D 正齒輪傳動模擬 (一)&lt;/h3&gt;
 &lt;img src="http://i.imgur.com/yFrXf93.png"&gt;
@@ -38,24 +33,39 @@
 &lt;h2&gt;心得&lt;/h2&gt;
 &lt;h3&gt;首先在onshape上導入齒輪，然後建立出底板與中心軸柱，將齒輪與柱子搭配，然後要去計算柱子之間的距離，如果需要調整衝突則需去offset設定，最後根據上述的搭配讓齒輪順暢轉動。&lt;/h3&gt;
 &lt;br/&gt;
+&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
+&lt;br/&gt;
 &lt;h3&gt;網際 2D 正齒輪傳動囓合繪圖&lt;/h3&gt;
 &lt;img src="http://i.imgur.com/aBB6lVO.png"&gt;
 &lt;br/&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
 &lt;h3&gt;正齒輪的嚙合需要精準的計算，然後搭配參數的變化來加以分析。&lt;/h3&gt;
 &lt;br/&gt;
+&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
+&lt;br/&gt;
 &lt;h3&gt;自行車傳動 2D 鏈條繪圖 (二)&lt;/h3&gt;
 &lt;img src="http://i.imgur.com/jeSOBDg.png"&gt;
 &lt;br/&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
 &lt;h3&gt;自行車傳動鏈條經由solvespace的分析，藉由得到的數值再來畫出，然後三個正齒輪則更改為可調式參數。&lt;/h3&gt;
-&lt;br/&gt;&lt;/p&gt;</summary><category term="40328242"></category></entry><entry><title>40328242 w18-1報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40328242-w18-1bao-gao.html" rel="alternate"></link><updated>2016-06-25T18:17:54+08:00</updated><author><name>40328242</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40328242-w18-1bao-gao.html</id><summary type="html">&lt;p&gt;內容規畫 :&lt;br /&gt;
+&lt;br/&gt;
+&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
+&lt;br/&gt;&lt;/p&gt;</summary><category term="40328242"></category></entry><entry><title>40328242 w18-1報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40328242-w18-1bao-gao.html" rel="alternate"></link><updated>2016-06-25T18:47:22+08:00</updated><author><name>40328242</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40328242-w18-1bao-gao.html</id><summary type="html">&lt;p&gt;內容規畫 :&lt;br /&gt;
 
 &lt;h3&gt;自製2d繪圖&lt;/h3&gt;
 &lt;img src=""&gt;
 &lt;br/&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
 &lt;h3&gt;&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h2&gt;自評分數&lt;/h2&gt;
+&lt;h3&gt;70分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40328242"></category></entry><entry><title>40328242 w18-2報告</title><link href="https://40328242.github.io/2016springcd_bG10/static/blog/40328242-w18-2bao-gao.html" rel="alternate"></link><updated>2016-06-25T18:47:22+08:00</updated><author><name>40328242</name></author><id>tag:40328242.github.io,2016-06-25:2016springcd_bG10/static/blog/40328242-w18-2bao-gao.html</id><summary type="html">&lt;p&gt;內容規畫 :&lt;br /&gt;
+
+&lt;h3&gt;onshape&lt;/h3&gt;
+&lt;img src="http://i.imgur.com/XN9jlNa.png"&gt;
+&lt;br/&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;h3&gt;老師所給的齒數讓我們必須去分析如何才能不干涉，而組裝的過程與之前的步驟相同，比較有困難的是如何調整轉動多少齒來解決干涉。&lt;/h3&gt;
 &lt;br/&gt;
 &lt;h2&gt;自評分數&lt;/h2&gt;
 &lt;h3&gt;70分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40328242"></category></entry></feed>
