@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Bg9'
+AUTHOR = 'Bg10'
 SITENAME = 'CDW11 網頁 (虎尾科大MDE)'
 SITEURL = 'https://40328242.github.io/2016springcd_bG10/static/'
 
