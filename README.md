@@ -61,9 +61,6 @@ OnShape :
 
 組員 : 40328245
 
-組員 : 
-40328245
-
 期末報告 心得 : 
 http://40328245-40328245.rhcloud.com/static/blog/40328245-qi-mo-xin-de.html
 
