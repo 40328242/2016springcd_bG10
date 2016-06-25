@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://40328242.github.io/2016springcd_bG10/static/blog/</loc>
-<lastmod>2016-06-25T21:41:53-00:00</lastmod>
+<lastmod>2016-06-25T21:47:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://40328242.github.io/2016springcd_bG10/static/blog/archives.html</loc>
-<lastmod>2016-06-25T21:41:53-00:00</lastmod>
+<lastmod>2016-06-25T21:47:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://40328242.github.io/2016springcd_bG10/static/blog/tags.html</loc>
-<lastmod>2016-06-25T21:41:53-00:00</lastmod>
+<lastmod>2016-06-25T21:47:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://40328242.github.io/2016springcd_bG10/static/blog/categories.html</loc>
-<lastmod>2016-06-25T21:41:53-00:00</lastmod>
+<lastmod>2016-06-25T21:47:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -242,21 +242,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://40328242.github.io/2016springcd_bG10/static/blog/tag/40323218.html</loc>
-<lastmod>2016-06-25T18:47:22+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://40328242.github.io/2016springcd_bG10/static/blog/tag/403232314.html</loc>
-<lastmod>2016-06-25T18:47:22+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://40328242.github.io/2016springcd_bG10/static/blog/tag/cdw11.html</loc>
+<loc>https://40328242.github.io/2016springcd_bG10/static/blog/tag/40323199.html</loc>
 <lastmod>2016-06-25T18:47:22+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -270,13 +256,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://40328242.github.io/2016springcd_bG10/static/blog/tag/40323199.html</loc>
-<lastmod>2016-06-25T18:47:22+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://40328242.github.io/2016springcd_bG10/static/blog/tag/40328242.html</loc>
 <lastmod>2016-06-25T18:47:22+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -284,7 +263,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://40328242.github.io/2016springcd_bG10/static/blog/tag/40323250.html</loc>
+<loc>https://40328242.github.io/2016springcd_bG10/static/blog/tag/40323218.html</loc>
+<lastmod>2016-06-25T18:47:22+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://40328242.github.io/2016springcd_bG10/static/blog/tag/40323231.html</loc>
+<lastmod>2016-06-25T18:47:22+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://40328242.github.io/2016springcd_bG10/static/blog/tag/cdw11.html</loc>
+<lastmod>2016-06-25T18:47:22+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://40328242.github.io/2016springcd_bG10/static/blog/tag/403232314.html</loc>
 <lastmod>2016-06-25T18:47:22+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -298,7 +298,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://40328242.github.io/2016springcd_bG10/static/blog/tag/40323231.html</loc>
+<loc>https://40328242.github.io/2016springcd_bG10/static/blog/tag/40323250.html</loc>
 <lastmod>2016-06-25T18:47:22+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
