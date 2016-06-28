@@ -7,6 +7,8 @@ Pelican:
 
 40328242 : https://40328242.github.io/2016springcd_bG10/static/blog/40328242-w18-3bao-gao.html
 
+40323227 : https://40323227.github.io/2016springcd_bG10/static/blog/40323227-w18-3bao-gao.html
+
 ----------------------------------------------------------------------
 
 自製2d繪圖:
@@ -139,3 +141,16 @@ http://2016springcd-40328242.rhcloud.com/bg10_40328242/hw_link.html
 
 OnShape : 
 https://cad.onshape.com/documents/2208c22ac5bb85c8b06fc105/w/e0eaa45b0e1245895691deb0/e/3fa2988f81a155daade299f6.html
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+組員 : 40323227
+
+期末報告 心得 : https://40328242.github.io/2016springcd_bG10/static/blog/40323227-qi-mo-zong-jie.html
+
+自行車傳動 2D 鏈條繪圖 (二) 心得 :https://40328242.github.io/2016springcd_bG10/static/blog/40323227-2dhui-tu.html
+
+網際 2D 正齒輪傳動囓合繪圖 心得 :https://40328242.github.io/2016springcd_bG10/static/blog/40323227-2dhui-tu.html
+
+網際 3D 正齒輪傳動模擬 (一) onshape : https://cad.onshape.com/documents/2208c22ac5bb85c8b06fc105/w/e0eaa45b0e1245895691deb0/e/dce532891270553794b93e0b
+
+網際 3D 正齒輪傳動模擬 (一) 心得 :https://40328242.github.io/2016springcd_bG10/static/blog/40323227-wang-ji-3d-zheng-chi-lun-chuan-dong-mo-ni-er.html
