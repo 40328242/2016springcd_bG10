@@ -9,22 +9,6 @@ Pelican:
 
 40323227 : https://40323227.github.io/2016springcd_bG10/static/blog/40323227-w18-3bao-gao.html
 
-----------------------------------------------------------------------
-
-自製2d繪圖:
-
-40328242 : http://2016springcd-40328242.rhcloud.com/bg10_40328242/hw_link
-
------------------------------------------------------------
-
-OnShape :
-
-40328242 : https://cad.onshape.com/documents/2208c22ac5bb85c8b06fc105/w/e0eaa45b0e1245895691deb0/e/009f765696e99b562c8654e5
-
-
------------------------------------------------------------
-Pelican: 
-
 40323222 : https://40328242.github.io/2016springcd_bG10/static/blog/40323222-w18-1bao-gao.html
 
 40323222 : https://40328242.github.io/2016springcd_bG10/static/blog/40323222-w18-2bao-gao.html
@@ -35,15 +19,21 @@ Pelican:
 
 自製2d繪圖:
 
+40328242 : http://2016springcd-40328242.rhcloud.com/bg10_40328242/hw_link
+
 40323222 : http://2016springcd-40323222.rhcloud.com/bg10_40323222/hw_link
 
 -----------------------------------------------------------
 
 OnShape :
 
+40328242 : https://cad.onshape.com/documents/2208c22ac5bb85c8b06fc105/w/e0eaa45b0e1245895691deb0/e/009f765696e99b562c8654e5
+
 40323222 : https://cad.onshape.com/documents/2208c22ac5bb85c8b06fc105/w/e0eaa45b0e1245895691deb0/e/2057b67a484bc9f574cba30e
 
+
 -----------------------------------------------------------
+
 組員 : 40323241 
 
 期末報告 心得 : http://python-40323241cdw11.rhcloud.com/static/blog/40323241-cdw11-bao-gao.html 
@@ -145,6 +135,7 @@ OnShape :
 https://cad.onshape.com/documents/2208c22ac5bb85c8b06fc105/w/e0eaa45b0e1245895691deb0/e/3fa2988f81a155daade299f6.html
 
 -------------------------------------------------------------------------------------------------------------------------------------------
+
 組員 : 40323227
 
 期末報告 心得 : https://40328242.github.io/2016springcd_bG10/static/blog/40323227-qi-mo-zong-jie.html
