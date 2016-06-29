@@ -21,7 +21,7 @@ Pelican:
 
 40328242 : http://2016springcd-40328242.rhcloud.com/bg10_40328242/hw_link
 
-40323222 : http://2016springcd-40323222.rhcloud.com/bg10_40323222/hw_link
+40323222 : http://2016springcd-lin0929222272.rhcloud.com/bg10_40323222/hw_link
 
 -----------------------------------------------------------
 
